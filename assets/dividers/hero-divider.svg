@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 36" width="1200" height="36" role="img" aria-label="Bolum ayirici / Section divider" preserveAspectRatio="xMidYMid meet">
+  <title>Bölüm ayırıcı / Section divider</title>
+  <defs>
+    <linearGradient id="dline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#40534D" stop-opacity="0"/>
+      <stop offset="22%" stop-color="#40534D" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#4FA78F" stop-opacity="0.85"/>
+      <stop offset="78%" stop-color="#40534D" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#40534D" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="dsweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#78BBA9" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#78BBA9" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#78BBA9" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="dclip"><rect x="0" y="0" width="1200" height="36"/></clipPath>
+  </defs>
+  <style>
+    .sweep{animation:dsweep 14s linear infinite}
+    @keyframes dsweep{0%{transform:translateX(-260px);opacity:0}10%{opacity:1}90%{opacity:1}100%{transform:translateX(1240px);opacity:0}}
+    @media (prefers-reduced-motion: reduce){.sweep{animation:none;opacity:0}}
+  </style>
+  <rect x="0" y="17" width="1200" height="1.6" fill="url(#dline)"/>
+  <g clip-path="url(#dclip)"><g class="sweep"><rect x="0" y="16.4" width="240" height="2.8" rx="1.4" fill="url(#dsweep)"/></g></g>
+  <g fill="none" stroke="#D4B477" stroke-width="1.3" opacity="0.9">
+    <path d="M600 11.5 606.5 18 600 24.5 593.5 18Z"/>
+  </g>
+  <circle cx="600" cy="18" r="1.9" fill="#E2C994"/>
+  <g stroke="#40534D" stroke-width="1.2" opacity="0.8">
+    <path d="M540 18h-26M660 18h26"/>
+  </g>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 206" width="1200" height="206" role="img" aria-label="03. Article App — A full-stack workspace that uses local language models to analyze, summarize, and generate controlled academic content." preserveAspectRatio="xMidYMid meet">
+  <title>03. Article App — A full-stack workspace that uses local language models to analyze, summarize, and generate controlled academic content.</title>
+  <defs>
+    <linearGradient id="pcard" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#222C29"/>
+      <stop offset="100%" stop-color="#1B2422"/>
+    </linearGradient>
+    <linearGradient id="pbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111518"/>
+      <stop offset="100%" stop-color="#171D1C"/>
+    </linearGradient>
+    <pattern id="pgrid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#2D3B37" stroke-width="1" opacity="0.35"/>
+    </pattern>
+  </defs>
+  <style>
+    .f{font-family:"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif}
+    .m{font-family:"IBM Plex Mono","Consolas","DejaVu Sans Mono",monospace}
+    .num{font-size:12px;font-weight:700;letter-spacing:.5px;fill:#D4B477}
+    .name{font-size:20px;font-weight:700;fill:#F1EEE7}
+    .body{font-size:13.5px;font-weight:400;fill:#C4CCC7}
+    .techlbl{font-size:10.5px;font-weight:600;letter-spacing:.1px;fill:#C4CCC7}
+    .cat{font-size:9.5px;font-weight:700;letter-spacing:.8px;fill:#78BBA9}
+    .maintag{font-size:8.5px;font-weight:700;letter-spacing:.6px;fill:#D4B477}
+    .pill{font-size:11px;font-weight:700;letter-spacing:.4px}
+    .link{font-size:13.5px;font-weight:700;letter-spacing:.1px}
+    .priv{font-size:12px;font-weight:500;fill:#93A099}
+    .sec{font-size:9px;font-weight:700;letter-spacing:.4px;fill:#D4B477}
+    .ico{fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+    .glow{animation:cglow 9s ease-in-out infinite;animation-delay:-3.80s}
+    @keyframes cglow{0%,100%{stroke:#40534D;opacity:.9}50%{stroke:#4FA78F;opacity:1}}
+    .arrow{animation:arrow 3.6s ease-in-out infinite;animation-delay:-2.28s}
+    @keyframes arrow{0%%,100%%{transform:translateX(0)}50%%{transform:translateX(3px)}}
+    .lockpulse{animation:lockp 6s ease-in-out infinite;animation-delay:-3.80s}
+    @keyframes lockp{0%%,100%%{opacity:.75}50%%{opacity:1}}
+    .mainglow{animation:mglow 7s ease-in-out infinite;animation-delay:-3.80s}
+    @keyframes mglow{0%%,100%%{opacity:.6}50%%{opacity:1}}
+    @media (prefers-reduced-motion: reduce){
+      .glow,.arrow,.lockpulse,.mainglow{animation:none}
+    }
+  </style>
+  <rect width="1200" height="206" fill="#171D1C"/>
+  <rect width="1200" height="206" fill="url(#pbg)"/>
+  <rect width="1200" height="206" fill="url(#pgrid)" opacity=".4"/>
+  <rect x="1" y="1" width="1198" height="204" rx="16" fill="none" class="glow" stroke="#40534D" stroke-width="1.4"/>
+  <rect x="0" y="18" width="3" height="170" rx="1.5" fill="#4FA78F"/>
+  <g class="f">
+    <text class="m num" x="22" y="30">03</text>
+    <rect x="22" y="74" width="76" height="76" rx="14" fill="url(#pcard)" stroke="#4FA78F" stroke-width="1.3"/><g transform="translate(37.2 89.2) scale(1.9000)" fill="#D4B477" stroke="#D4B477"><path d="M4 5.6c2.3-1.1 4.8-1.1 6.8.2v12.6c-2-1.3-4.5-1.3-6.8-.2Z" fill="none"/><path d="M20 5.6c-2.3-1.1-4.8-1.1-6.8.2v12.6c2-1.3 4.5-1.3 6.8-.2Z" fill="none"/><path d="M10.8 5.8v12.6M13.2 5.8v12.6" stroke-width="1.3"/></g>
+    <text class="name" x="116" y="85.5">Article App</text>
+    <text class="body" x="116" y="102.5">A full-stack workspace that uses local language models to analyze, summarize, and generate controlled academic content.</text>
+    <rect x="116" y="114.5" width="68" height="30" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(124 119.5) scale(0.8333)" fill="#F8A61C" stroke="#F8A61C"><title>Java</title><path d="M5.6 10.4h10.8v5.2a5.4 5.4 0 0 1-5.4 5.4H11a5.4 5.4 0 0 1-5.4-5.4Z" fill="currentColor" stroke="none"/><path d="M16.4 11.4h1.8a2.6 2.6 0 0 1 0 5.2h-1.8" fill="none"/><path d="M9 3.4c-1.6 1.6.4 2.6-.6 4.2M13 3.4c-1.6 1.6.4 2.6-.6 4.2" stroke-width="1.5"/></g><text class="techlbl" x="151" y="133.5">Java</text><rect x="192" y="114.5" width="108" height="30" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(200 119.5) scale(0.8333)" fill="#6DB33F" stroke="#6DB33F"><title>Spring Boot</title><path d="M17.6 6.4A8.6 8.6 0 1 1 6.4 17.6c-.6.6-1.4 1.8-1.4 1.8s.2-1.4-.4-2.4A8.6 8.6 0 0 1 17.6 6.4Z"/><path d="M15.6 8.8c-3 3-4.2 3-6.4 5.2-1.4 1.4-1.4 2.8-1.4 2.8s1.6-.4 2.8-1.6c2.2-2.2 2.2-3.6 5.2-6.4" stroke-width="1.5"/></g><text class="techlbl" x="227" y="133.5">Spring Boot</text><rect x="308" y="114.5" width="83" height="30" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(316 119.5) scale(0.8333)" fill="#4B8BBE" stroke="#4B8BBE"><title>Python</title><path d="M12 2.6c-3.6 0-4 1.6-4 3.2v2.2h4.4v.9H6.2C4.4 8.9 3 10.4 3 12.9c0 2.4 1 3.9 3.2 3.9h1.4v-2.3c0-2.2 1.9-3.9 4-3.9h3.8c1.7 0 3-1.4 3-3.2V5.8c0-1.6-1.5-3.2-4.6-3.2h-1.8Z"/><circle cx="9.4" cy="4.9" r="0.85" fill="#fff"/><path d="M12 21.4c3.6 0 4-1.6 4-3.2v-2.2H11.6v-.9h6.2c1.8 0 3.2-1.5 3.2-4 0-2.4-1-3.9-3.2-3.9H16.4v2.3c0 2.2-1.9 3.9-4 3.9H8.6c-1.7 0-3 1.4-3 3.2v2.2c0 1.6 1.5 3.2 4.6 3.2H12Z" fill="#FFD43B"/><circle cx="14.6" cy="19.1" r="0.85" fill="#242938"/></g><text class="techlbl" x="343" y="133.5">Python</text><rect x="399" y="114.5" width="74" height="30" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(407 119.5) scale(0.8333)" fill="#61DAFB" stroke="#61DAFB"><title>React</title><g fill="none"><ellipse cx="12" cy="12" rx="10" ry="4"/><ellipse cx="12" cy="12" rx="10" ry="4" transform="rotate(60 12 12)"/><ellipse cx="12" cy="12" rx="10" ry="4" transform="rotate(120 12 12)"/></g><circle cx="12" cy="12" r="2" fill="currentColor" stroke="none"/></g><text class="techlbl" x="434" y="133.5">React</text><rect x="481" y="114.5" width="81" height="30" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(489 119.5) scale(0.8333)" fill="#F1EEE7" stroke="#F1EEE7"><title>Ollama</title><rect x="5.4" y="6.4" width="13.2" height="12.2" rx="6"/><circle cx="9.4" cy="12.2" r="1.15" fill="#111518" stroke="none"/><circle cx="14.6" cy="12.2" r="1.15" fill="#111518" stroke="none"/><path d="M9.4 3.4v2.6M14.6 3.4v2.6" stroke-width="1.5"/></g><text class="techlbl" x="516" y="133.5">Ollama</text>
+    <g class="mainglow"><rect x="1091" y="20" width="87" height="16" rx="8" fill="none" stroke="#D4B477" stroke-width="1"/><text class="maintag" x="1134.5" y="31.5" text-anchor="middle">MAIN PROJECT</text></g><text class="m cat" x="1178" y="53" text-anchor="end">LOCAL LLM APPLICATION</text><rect x="1036" y="66" width="142" height="26" rx="13" fill="url(#pcard)" stroke="#D4B477" stroke-width="1.1"/><g class="ico" transform="translate(1045 70) scale(0.66)" color="#D4B477"><rect x="4.4" y="10.4" width="15.2" height="10.4" rx="2.2"/><path d="M7.6 10.4V7.6a4.4 4.4 0 0 1 8.8 0v2.8"/><circle cx="12" cy="15" r="1.5" fill="currentColor" stroke="none"/></g><text class="pill" x="1065" y="83.5" fill="#D4B477">PRIVATE PROJECT</text>
+    <g class="ico lockpulse" stroke="#93A099" transform="translate(963 172.0) scale(0.64)"><rect x="4.4" y="10.4" width="15.2" height="10.4" rx="2.2"/><path d="M7.6 10.4V7.6a4.4 4.4 0 0 1 8.8 0v2.8"/><circle cx="12" cy="15" r="1.5" fill="currentColor" stroke="none"/></g>
+    <text class="priv m" x="1178" y="187.0" text-anchor="end">Source code is not publicly available</text>
+  </g>
+</svg>

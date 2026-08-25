@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="07. Ticket Management System — A ticket management system built as a Java microservice architecture that separates department, user, and ticket workflows." preserveAspectRatio="xMidYMid meet">
+  <title>07. Ticket Management System — A ticket management system built as a Java microservice architecture that separates department, user, and ticket workflows.</title>
+  <defs>
+    <linearGradient id="pcard" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#222C29"/>
+      <stop offset="100%" stop-color="#1B2422"/>
+    </linearGradient>
+    <linearGradient id="pbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111518"/>
+      <stop offset="100%" stop-color="#171D1C"/>
+    </linearGradient>
+    <pattern id="pgrid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#2D3B37" stroke-width="1" opacity="0.35"/>
+    </pattern>
+  </defs>
+  <style>
+    .f{font-family:"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif}
+    .m{font-family:"IBM Plex Mono","Consolas","DejaVu Sans Mono",monospace}
+    .num{font-size:12px;font-weight:700;letter-spacing:.5px;fill:#D4B477}
+    .name{font-size:17px;font-weight:700;fill:#F1EEE7}
+    .body{font-size:12.5px;font-weight:400;fill:#C4CCC7}
+    .techlbl{font-size:10.5px;font-weight:600;letter-spacing:.1px;fill:#C4CCC7}
+    .cat{font-size:9.5px;font-weight:700;letter-spacing:.8px;fill:#78BBA9}
+    .maintag{font-size:8.5px;font-weight:700;letter-spacing:.6px;fill:#D4B477}
+    .pill{font-size:11px;font-weight:700;letter-spacing:.4px}
+    .link{font-size:13.5px;font-weight:700;letter-spacing:.1px}
+    .priv{font-size:12px;font-weight:500;fill:#93A099}
+    .sec{font-size:9px;font-weight:700;letter-spacing:.4px;fill:#D4B477}
+    .ico{fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+    .glow{animation:cglow 9s ease-in-out infinite;animation-delay:-11.40s}
+    @keyframes cglow{0%,100%{stroke:#40534D;opacity:.9}50%{stroke:#4FA78F;opacity:1}}
+    .arrow{animation:arrow 3.6s ease-in-out infinite;animation-delay:-6.84s}
+    @keyframes arrow{0%%,100%%{transform:translateX(0)}50%%{transform:translateX(3px)}}
+    .lockpulse{animation:lockp 6s ease-in-out infinite;animation-delay:-11.40s}
+    @keyframes lockp{0%%,100%%{opacity:.75}50%%{opacity:1}}
+    @media (prefers-reduced-motion: reduce){
+      .glow,.arrow,.lockpulse,.mainglow{animation:none}
+    }
+  </style>
+  <rect width="1200" height="150" fill="#171D1C"/>
+  <rect width="1200" height="150" fill="url(#pbg)"/>
+  <rect width="1200" height="150" fill="url(#pgrid)" opacity=".4"/>
+  <rect x="1" y="1" width="1198" height="148" rx="16" fill="none" class="glow" stroke="#40534D" stroke-width="1.4"/>
+  <rect x="0" y="18" width="3" height="114" rx="1.5" fill="#4FA78F"/>
+  <g class="f">
+    <text class="m num" x="22" y="30">07</text>
+    <rect x="22" y="46" width="76" height="76" rx="14" fill="url(#pcard)" stroke="#4FA78F" stroke-width="1.3"/><g transform="translate(37.2 61.2) scale(1.9000)" fill="#D4B477" stroke="#D4B477"><path d="M3 8.4a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v1.3a1.7 1.7 0 0 0 0 3.2v1.3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-1.3a1.7 1.7 0 0 0 0-3.2Z" fill="none"/><path d="M9.4 6.8v11" stroke-dasharray="2.1 2.1"/><path d="m12.6 10.8 1.6 1.6 2.6-2.9" stroke-width="1.6"/></g>
+    <text class="name" x="116" y="58.0">Ticket Management System</text>
+    <text class="body" x="116" y="73.0">A ticket management system built as a Java microservice architecture that separates department, user, and ticket workflows.</text>
+    <rect x="116" y="85" width="66" height="28" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(124 90) scale(0.7500)" fill="#F8A61C" stroke="#F8A61C"><title>Java</title><path d="M5.6 10.4h10.8v5.2a5.4 5.4 0 0 1-5.4 5.4H11a5.4 5.4 0 0 1-5.4-5.4Z" fill="currentColor" stroke="none"/><path d="M16.4 11.4h1.8a2.6 2.6 0 0 1 0 5.2h-1.8" fill="none"/><path d="M9 3.4c-1.6 1.6.4 2.6-.6 4.2M13 3.4c-1.6 1.6.4 2.6-.6 4.2" stroke-width="1.5"/></g><text class="techlbl" x="149" y="103">Java</text><rect x="190" y="85" width="106" height="28" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(198 90) scale(0.7500)" fill="#6DB33F" stroke="#6DB33F"><title>Spring Boot</title><path d="M17.6 6.4A8.6 8.6 0 1 1 6.4 17.6c-.6.6-1.4 1.8-1.4 1.8s.2-1.4-.4-2.4A8.6 8.6 0 0 1 17.6 6.4Z"/><path d="M15.6 8.8c-3 3-4.2 3-6.4 5.2-1.4 1.4-1.4 2.8-1.4 2.8s1.6-.4 2.8-1.6c2.2-2.2 2.2-3.6 5.2-6.4" stroke-width="1.5"/></g><text class="techlbl" x="223" y="103">Spring Boot</text><rect x="304" y="85" width="72" height="28" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(312 90) scale(0.7500)" fill="#61DAFB" stroke="#61DAFB"><title>React</title><g fill="none"><ellipse cx="12" cy="12" rx="10" ry="4"/><ellipse cx="12" cy="12" rx="10" ry="4" transform="rotate(60 12 12)"/><ellipse cx="12" cy="12" rx="10" ry="4" transform="rotate(120 12 12)"/></g><circle cx="12" cy="12" r="2" fill="currentColor" stroke="none"/></g><text class="techlbl" x="337" y="103">React</text><rect x="384" y="85" width="80" height="28" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(392 90) scale(0.7500)" fill="#CC2927" stroke="#CC2927"><title>MSSQL</title><ellipse cx="12" cy="6" rx="7.4" ry="2.6"/><path d="M4.6 6v12c0 1.4 3.3 2.6 7.4 2.6s7.4-1.2 7.4-2.6V6"/><path d="M4.6 11.4c0 1.4 3.3 2.6 7.4 2.6s7.4-1.2 7.4-2.6" stroke-width="1.4"/></g><text class="techlbl" x="417" y="103">MSSQL</text><rect x="472" y="85" width="80" height="28" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(480 90) scale(0.7500)" fill="#2496ED" stroke="#2496ED"><title>Docker</title><rect x="3" y="11" width="3.2" height="3" /><rect x="6.8" y="11" width="3.2" height="3"/><rect x="10.6" y="11" width="3.2" height="3"/><rect x="6.8" y="7.4" width="3.2" height="3"/><rect x="10.6" y="7.4" width="3.2" height="3"/><path d="M2.4 14c0 3.8 2.6 6 7.4 6 5.4 0 8.6-2.8 9.6-6.6.9.1 2-.1 2.6-.9-.9-.7-2-.6-2.6-.4C18.8 11 18 11 18 11H2.4Z" stroke-width="1.1"/></g><text class="techlbl" x="505" y="103">Docker</text>
+    <text class="m cat" x="1178" y="29" text-anchor="end">MICROSERVICE ARCHITECTURE</text><rect x="1055" y="42" width="123" height="26" rx="13" fill="url(#pcard)" stroke="#78BBA9" stroke-width="1.1"/><g class="ico" transform="translate(1064 46) scale(0.66)" color="#78BBA9"><path d="M6 2.8h10.4A1.8 1.8 0 0 1 18.2 4.6v14.8L12 16.6l-6.2 2.8V4.6A1.8 1.8 0 0 1 6 2.8Z"/></g><text class="pill" x="1084" y="59.5" fill="#78BBA9">OPEN SOURCE</text>
+    <text class="link m" x="1035" y="131.0" fill="#78BBA9">View Repository →</text>
+    <g class="arrow ico" stroke="#78BBA9" transform="translate(1161 115.0) scale(0.78)"><path d="M4 12h14M12 6l6 6-6 6"/></g>
+  </g>
+</svg>

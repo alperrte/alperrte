@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 118" width="1200" height="118" role="img" aria-label="Birlikte Çalışalım">
+  <title>Birlikte Çalışalım</title>
+  <defs>
+    <linearGradient id="cbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#111518"/><stop offset="100%" stop-color="#171D1C"/></linearGradient>
+    <linearGradient id="crule" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#4FA78F" stop-opacity="0.75"/><stop offset="16%" stop-color="#D4B477" stop-opacity="0.55"/><stop offset="45%" stop-color="#40534D" stop-opacity="0.55"/><stop offset="100%" stop-color="#40534D" stop-opacity="0"/></linearGradient>
+    <linearGradient id="caccent" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#4FA78F"><animate attributeName="stop-color" values="#4FA78F;#78BBA9;#4FA78F" dur="9s" repeatCount="indefinite"/></stop><stop offset="70%" stop-color="#4FA78F"/><stop offset="100%" stop-color="#D4B477"/></linearGradient>
+    <pattern id="cgrid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#2D3B37" stroke-width="1" opacity="0.3"/></pattern>
+  </defs>
+  <rect width="1200" height="118" fill="#111518"/>
+  <rect width="1200" height="118" fill="url(#cbg)"/>
+  <rect width="1200" height="118" fill="url(#cgrid)" opacity=".3"/>
+  <g font-family='"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif'>
+    <rect x="64" y="30" width="4" height="52" rx="2" fill="url(#caccent)"/>
+    <text x="80" y="52" font-size="33" font-weight="700" letter-spacing=".2px" fill="#F1EEE7">Birlikte Çalışalım</text>
+    <text x="80" y="74" font-size="15.5" fill="#C4CCC7">Full-stack ürün geliştirme, süreç otomasyonu, mikroservis mimarileri ve yapay zekâ destekli sistemler üzerine yeni projeler ve iş birlikleri için iletişime</text>
+    <text x="80" y="96" font-size="15.5" fill="#C4CCC7">geçebilirsiniz.</text>
+    <rect x="64" y="106" width="1072" height="1.2" fill="url(#crule)"/>
+  </g>
+</svg>

@@ -1,0 +1,273 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 544" width="1200" height="544" role="img" aria-label="Alper Temiz - Software Engineering Student, Junior Full-Stack Developer / AI-ML Engineer" preserveAspectRatio="xMidYMid meet">
+  <title>Alper Temiz — Software Engineering Student, Junior Full-Stack Developer / AI/ML Engineer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111518"/>
+      <stop offset="45%" stop-color="#171D1C"/>
+      <stop offset="100%" stop-color="#1D2523"/>
+    </linearGradient>
+    <linearGradient id="accentBar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4FA78F"/>
+      <stop offset="100%" stop-color="#D4B477"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4FA78F" stop-opacity="0.75"/>
+      <stop offset="45%" stop-color="#40534D" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#40534D" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="cardSurf" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#222C29"/>
+      <stop offset="100%" stop-color="#1B2422"/>
+    </linearGradient>
+    <linearGradient id="cardOn" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#28332F"/>
+      <stop offset="100%" stop-color="#222C29"/>
+    </linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#DFC79A"/>
+      <stop offset="48%" stop-color="#C9AE7B"/>
+      <stop offset="100%" stop-color="#6E5A39"/>
+    </linearGradient>
+    <radialGradient id="carShadow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#050807" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#050807" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#2D3B37" stroke-width="1" opacity="0.55"/>
+    </pattern>
+  </defs>
+  <style>
+    .f{font-family:"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif}
+    .m{font-family:"IBM Plex Mono","Consolas","DejaVu Sans Mono",monospace}
+    .name{font-size:52px;font-weight:700;letter-spacing:2.4px;fill:#F2F3F1}
+    .t1{font-size:20px;font-weight:600;letter-spacing:.4px;fill:#78BBA9}
+    .t2{font-size:16.5px;font-weight:500;letter-spacing:.6px;fill:#D4B477}
+    .body{font-size:17px;font-weight:400;fill:#C4CCC7}
+    .ph{font-size:12px;font-weight:600;letter-spacing:1.9px;fill:#93A099}
+    .bt{font-size:13px;font-weight:600;letter-spacing:.1px;fill:#C4CCC7}
+    .bt-on{font-size:13px;font-weight:600;letter-spacing:.1px;fill:#F1EEE7}
+    .ct{font-size:13px;font-weight:600;letter-spacing:.1px;fill:#C4CCC7}
+    .ct-on{font-size:13px;font-weight:600;letter-spacing:.1px;fill:#F1EEE7}
+    .rs{font-size:12.5px;font-weight:700;letter-spacing:.4px;fill:#D4B477}
+    .rs-on{font-size:12.5px;font-weight:700;letter-spacing:.4px;fill:#F1EEE7}
+    .lbl{font-size:11.5px;font-weight:600;letter-spacing:1.5px;fill:#93A099}
+    .cnt{font-size:12.5px;font-weight:600;letter-spacing:1.4px}
+    .ico{fill:none;stroke:#93A099;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+    .ico-t{fill:none;stroke:#78BBA9;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+    .ico-c{fill:none;stroke:#D4B477;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+    .bus{stroke-dasharray:6 9;animation:bus 22s linear infinite}
+    @keyframes bus{to{stroke-dashoffset:-180}}
+    @keyframes carRun{0.0%{transform:translateX(0px);opacity:1}19.072%{animation-timing-function:cubic-bezier(.4,0,.3,1);transform:translateX(0px);opacity:1}26.804%{transform:translateX(59px);opacity:1}30.412%{animation-timing-function:cubic-bezier(.4,0,.3,1);transform:translateX(59px);opacity:1}38.144%{transform:translateX(280px);opacity:1}41.753%{animation-timing-function:cubic-bezier(.4,0,.3,1);transform:translateX(280px);opacity:1}49.485%{transform:translateX(501px);opacity:1}53.093%{transform:translateX(501px);opacity:1}60.825%{transform:translateX(722px);opacity:1}64.433%{animation-timing-function:cubic-bezier(.4,0,.3,1);transform:translateX(722px);opacity:1}71.134%{transform:translateX(939px);opacity:1}89.691%{transform:translateX(939px);opacity:1}92.268%{transform:translateX(939px);opacity:0}92.526%{transform:translateX(0px);opacity:0}94.845%{transform:translateX(0px);opacity:1}100.0%{transform:translateX(0px);opacity:1}}
+    .car{animation:carRun 19.4s linear infinite}
+    @keyframes runLine{0.0%{stroke-dashoffset:939;opacity:1}19.072%{animation-timing-function:cubic-bezier(.4,0,.3,1);stroke-dashoffset:939;opacity:1}26.804%{stroke-dashoffset:880;opacity:1}30.412%{animation-timing-function:cubic-bezier(.4,0,.3,1);stroke-dashoffset:880;opacity:1}38.144%{stroke-dashoffset:659;opacity:1}41.753%{animation-timing-function:cubic-bezier(.4,0,.3,1);stroke-dashoffset:659;opacity:1}49.485%{stroke-dashoffset:438;opacity:1}53.093%{stroke-dashoffset:438;opacity:1}60.825%{stroke-dashoffset:217;opacity:1}64.433%{animation-timing-function:cubic-bezier(.4,0,.3,1);stroke-dashoffset:217;opacity:1}71.134%{stroke-dashoffset:0;opacity:1}89.691%{stroke-dashoffset:0;opacity:1}92.268%{stroke-dashoffset:0;opacity:0}92.526%{stroke-dashoffset:939;opacity:0}94.845%{stroke-dashoffset:939;opacity:1}100.0%{stroke-dashoffset:939;opacity:1}}
+    .prog{stroke-dasharray:939;stroke-dashoffset:939;animation:runLine 19.4s linear infinite}
+    @keyframes lamp1{0.0%{opacity:0}4.897%{opacity:0}5.412%{opacity:1}14.948%{opacity:1}15.412%{opacity:0}100.0%{opacity:0}}
+    .lamp1{opacity:0;animation:lamp1 19.4s linear infinite}
+    @keyframes lamp2{0.0%{opacity:0}8.247%{opacity:0}8.763%{opacity:1}14.948%{opacity:1}15.412%{opacity:0}100.0%{opacity:0}}
+    .lamp2{opacity:0;animation:lamp2 19.4s linear infinite}
+    @keyframes lamp3{0.0%{opacity:0}11.598%{opacity:0}12.113%{opacity:1}14.948%{opacity:1}15.412%{opacity:0}100.0%{opacity:0}}
+    .lamp3{opacity:0;animation:lamp3 19.4s linear infinite}
+    @keyframes n3{0.0%{opacity:0}4.897%{opacity:0}5.412%{opacity:1}8.041%{opacity:1}8.505%{opacity:0}100.0%{opacity:0}}
+    .n3{opacity:0;animation:n3 19.4s linear infinite}
+    @keyframes n2{0.0%{opacity:0}8.247%{opacity:0}8.763%{opacity:1}11.392%{opacity:1}11.856%{opacity:0}100.0%{opacity:0}}
+    .n2{opacity:0;animation:n2 19.4s linear infinite}
+    @keyframes n1{0.0%{opacity:0}11.598%{opacity:0}12.113%{opacity:1}14.742%{opacity:1}15.206%{opacity:0}100.0%{opacity:0}}
+    .n1{opacity:0;animation:n1 19.4s linear infinite}
+    @keyframes ngo{0.0%{opacity:0}14.948%{opacity:0}15.464%{opacity:1}18.608%{opacity:1}19.072%{opacity:0}100.0%{opacity:0}}
+    .ngo{opacity:0;animation:ngo 19.4s linear infinite}
+    @keyframes rdy{0.0%{opacity:1}4.639%{opacity:1}5.155%{opacity:0}93.814%{opacity:0}95.361%{opacity:1}100.0%{opacity:1}}
+    .rdy{animation:rdy 19.4s linear infinite}
+    @keyframes gantry{0.0%{opacity:1}19.072%{opacity:1}21.649%{opacity:0}93.814%{opacity:0}95.361%{opacity:1}100.0%{opacity:1}}
+    .gantry{animation:gantry 19.4s linear infinite}
+    @keyframes on1{0.0%{opacity:0}26.186%{opacity:0}26.804%{opacity:1}30.412%{opacity:1}31.959%{opacity:0}81.959%{opacity:0}83.505%{opacity:1}88.402%{opacity:1}90.722%{opacity:0}100.0%{opacity:0}}
+    .on1{opacity:0;animation:on1 19.4s linear infinite}
+    @keyframes on2{0.0%{opacity:0}37.526%{opacity:0}38.144%{opacity:1}41.753%{opacity:1}43.299%{opacity:0}81.959%{opacity:0}83.505%{opacity:1}88.402%{opacity:1}90.722%{opacity:0}100.0%{opacity:0}}
+    .on2{opacity:0;animation:on2 19.4s linear infinite}
+    @keyframes on3{0.0%{opacity:0}48.866%{opacity:0}49.485%{opacity:1}53.093%{opacity:1}54.639%{opacity:0}81.959%{opacity:0}83.505%{opacity:1}88.402%{opacity:1}90.722%{opacity:0}100.0%{opacity:0}}
+    .on3{opacity:0;animation:on3 19.4s linear infinite}
+    @keyframes on4{0.0%{opacity:0}60.206%{opacity:0}60.825%{opacity:1}64.433%{opacity:1}65.979%{opacity:0}81.959%{opacity:0}83.505%{opacity:1}88.402%{opacity:1}90.722%{opacity:0}100.0%{opacity:0}}
+    .on4{opacity:0;animation:on4 19.4s linear infinite}
+    @keyframes res{0.0%{opacity:0}70.515%{opacity:0}71.134%{opacity:1}88.402%{opacity:1}90.722%{opacity:0}100.0%{opacity:0}}
+    .res{opacity:0;animation:res 19.4s linear infinite}
+    @keyframes focus{0.0%{opacity:0}81.959%{opacity:0}83.763%{opacity:1}88.402%{opacity:1}90.979%{opacity:0}100.0%{opacity:0}}
+    .focus{opacity:0;animation:focus 19.4s linear infinite}
+    @keyframes flow{0.0%{opacity:0}81.959%{opacity:0}83.505%{opacity:1}88.402%{opacity:1}90.722%{opacity:0}100.0%{opacity:0}}
+    .flow{opacity:0;animation:flow 19.4s linear infinite}
+    @media (prefers-reduced-motion: reduce){
+      .bus,.car,.prog,.rdy,.gantry,.lamp1,.lamp2,.lamp3,.n3,.n2,.n1,.ngo,
+      .on1,.on2,.on3,.on4,.res,.focus,.flow{animation:none}
+    }
+  </style>
+  <rect width="1200" height="544" fill="#171D1C"/>
+  <rect width="1200" height="544" fill="url(#bg)"/>
+  <rect width="1200" height="544" fill="url(#grid)" opacity=".5"/>
+  <g stroke="#2D3B37" stroke-width="1.5" fill="none" opacity=".9">
+    <path d="M40 36 H66 M40 36 V62"/>
+    <path d="M1160 36 H1134 M1160 36 V62"/>
+    <path d="M40 508 H66 M40 508 V482"/>
+    <path d="M1160 508 H1134 M1160 508 V482"/>
+  </g>
+  <g class="f">
+    <rect x="64" y="76" width="4" height="104" rx="2" fill="url(#accentBar)"/>
+    <text class="name" x="96" y="116">ALPER TEMİZ</text>
+    <text class="t1" x="96" y="150">Software Engineering Student</text>
+    <text class="t2" x="96" y="176">Junior Full-Stack Developer / AI/ML Engineer</text>
+    <rect x="96" y="201" width="704" height="1.4" fill="url(#rule)"/>
+    <text class="body" x="96" y="234">I develop full-stack products, process automations, microservice architectures,</text>
+    <text class="body" x="96" y="258">and AI-assisted systems.</text>
+    <text class="body" x="96" y="296">I turn ideas into working products across analysis, architecture, development,</text>
+    <text class="body" x="96" y="320">testing, and integration.</text>
+  </g>
+  <g class="f">
+    <text class="m ph" x="858" y="84">ENGINEERING FOCUS</text>
+    <rect x="858" y="90" width="294" height="1" fill="#40534D" opacity=".9"/>
+    <line class="bus" x1="1005" y1="96" x2="1005" y2="318" stroke="#2F806E" stroke-width="1.1" opacity=".55"/>
+    <line class="bus" x1="852" y1="207" x2="1158" y2="207" stroke="#2F806E" stroke-width="1.1" opacity=".55"/>
+    <g>
+      <rect x="858" y="102" width="134" height="92" rx="9" fill="url(#cardSurf)" stroke="#40534D" stroke-width="1.1"/>
+      <g class="ico" transform="translate(873 116)"><path d="M6.4 4.6h12.9a1.9 1.9 0 0 1 1.9 1.9v9.1"/><rect x="2.8" y="7.4" width="15.5" height="12" rx="2"/><path d="M2.8 11.1h15.5"/><path d="M7.6 14.2 5.8 16l1.8 1.8M13.5 14.2 15.3 16l-1.8 1.8"/></g>
+      <text class="bt" x="873" y="165">Full-Stack</text>
+      <text class="bt" x="873" y="182">Products</text>
+    </g>
+    <g>
+      <rect x="1018" y="102" width="134" height="92" rx="9" fill="url(#cardSurf)" stroke="#40534D" stroke-width="1.1"/>
+      <g class="ico" transform="translate(1033 116)"><rect x="2.6" y="3.4" width="6.6" height="6.6" rx="1.6"/><rect x="2.6" y="14" width="6.6" height="6.6" rx="1.6"/><rect x="14.8" y="8.7" width="6.6" height="6.6" rx="1.6"/><path d="M9.2 6.7h3.2a2 2 0 0 1 2 2v1.6M9.2 17.3h3.2a2 2 0 0 0 2-2v-1.6"/><path d="M12.9 10.4 14.4 12l1.5-1.6"/></g>
+      <text class="bt" x="1033" y="165">Process</text>
+      <text class="bt" x="1033" y="182">Automation</text>
+    </g>
+    <g>
+      <rect x="858" y="220" width="134" height="92" rx="9" fill="url(#cardSurf)" stroke="#40534D" stroke-width="1.1"/>
+      <g class="ico" transform="translate(873 234)"><rect x="9.4" y="9.4" width="5.2" height="5.2" rx="1.3"/><rect x="2.4" y="2.4" width="4.8" height="4.8" rx="1.2"/><rect x="16.8" y="2.4" width="4.8" height="4.8" rx="1.2"/><rect x="2.4" y="16.8" width="4.8" height="4.8" rx="1.2"/><rect x="16.8" y="16.8" width="4.8" height="4.8" rx="1.2"/><path d="m7.3 7.3 2.2 2.2M16.7 7.3l-2.2 2.2M7.3 16.7l2.2-2.2M16.7 16.7l-2.2-2.2"/></g>
+      <text class="bt" x="873" y="283">Microservice</text>
+      <text class="bt" x="873" y="300">Architecture</text>
+    </g>
+    <g>
+      <rect x="1018" y="220" width="134" height="92" rx="9" fill="url(#cardSurf)" stroke="#40534D" stroke-width="1.1"/>
+      <g class="ico" transform="translate(1033 234)"><rect x="5.4" y="5.4" width="13.2" height="13.2" rx="2.2"/><rect x="9.6" y="9.6" width="4.8" height="4.8" rx="1.1"/><path d="M9.6 5.4V2.7M14.4 5.4V2.7M9.6 21.3v-2.7M14.4 21.3v-2.7M5.4 9.6H2.7M5.4 14.4H2.7M21.3 9.6h-2.7M21.3 14.4h-2.7"/></g>
+      <text class="bt" x="1033" y="283">AI/ML &amp;</text>
+      <text class="bt" x="1033" y="300">Local AI</text>
+    </g>
+    <rect x="996" y="198" width="17" height="17" rx="3.8" fill="#1D2523" stroke="#4FA78F" stroke-width="1.4" transform="rotate(45 1005 207)"/>
+    <circle cx="1005" cy="207" r="2.4" fill="#D4B477" opacity=".9"/>
+    <g class="focus">
+      <rect x="858" y="102" width="134" height="92" rx="9" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.4"/>
+      <g class="ico-t" transform="translate(873 116)"><path d="M6.4 4.6h12.9a1.9 1.9 0 0 1 1.9 1.9v9.1"/><rect x="2.8" y="7.4" width="15.5" height="12" rx="2"/><path d="M2.8 11.1h15.5"/><path d="M7.6 14.2 5.8 16l1.8 1.8M13.5 14.2 15.3 16l-1.8 1.8"/></g>
+      <text class="bt-on" x="873" y="165">Full-Stack</text>
+      <text class="bt-on" x="873" y="182">Products</text>
+      <rect x="1018" y="102" width="134" height="92" rx="9" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.4"/>
+      <g class="ico-t" transform="translate(1033 116)"><rect x="2.6" y="3.4" width="6.6" height="6.6" rx="1.6"/><rect x="2.6" y="14" width="6.6" height="6.6" rx="1.6"/><rect x="14.8" y="8.7" width="6.6" height="6.6" rx="1.6"/><path d="M9.2 6.7h3.2a2 2 0 0 1 2 2v1.6M9.2 17.3h3.2a2 2 0 0 0 2-2v-1.6"/><path d="M12.9 10.4 14.4 12l1.5-1.6"/></g>
+      <text class="bt-on" x="1033" y="165">Process</text>
+      <text class="bt-on" x="1033" y="182">Automation</text>
+      <rect x="858" y="220" width="134" height="92" rx="9" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.4"/>
+      <g class="ico-t" transform="translate(873 234)"><rect x="9.4" y="9.4" width="5.2" height="5.2" rx="1.3"/><rect x="2.4" y="2.4" width="4.8" height="4.8" rx="1.2"/><rect x="16.8" y="2.4" width="4.8" height="4.8" rx="1.2"/><rect x="2.4" y="16.8" width="4.8" height="4.8" rx="1.2"/><rect x="16.8" y="16.8" width="4.8" height="4.8" rx="1.2"/><path d="m7.3 7.3 2.2 2.2M16.7 7.3l-2.2 2.2M7.3 16.7l2.2-2.2M16.7 16.7l-2.2-2.2"/></g>
+      <text class="bt-on" x="873" y="283">Microservice</text>
+      <text class="bt-on" x="873" y="300">Architecture</text>
+      <rect x="1018" y="220" width="134" height="92" rx="9" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.4"/>
+      <g class="ico-t" transform="translate(1033 234)"><rect x="5.4" y="5.4" width="13.2" height="13.2" rx="2.2"/><rect x="9.6" y="9.6" width="4.8" height="4.8" rx="1.1"/><path d="M9.6 5.4V2.7M14.4 5.4V2.7M9.6 21.3v-2.7M14.4 21.3v-2.7M5.4 9.6H2.7M5.4 14.4H2.7M21.3 9.6h-2.7M21.3 14.4h-2.7"/></g>
+      <text class="bt-on" x="1033" y="283">AI/ML &amp;</text>
+      <text class="bt-on" x="1033" y="300">Local AI</text>
+    </g>
+  </g>
+  <g class="f">
+    <line x1="64" y1="392" x2="1136" y2="392" stroke="#2D3B37" stroke-width="1.4" opacity=".95"/>
+    <line class="prog" x1="108" y1="392" x2="1047" y2="392" stroke="#2F806E" stroke-width="2" stroke-linecap="round" opacity=".95"/>
+    <line class="flow" x1="108" y1="392" x2="1047" y2="392" stroke="#D4B477" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M64 384 v16" stroke="#D4B477" stroke-width="2" stroke-linecap="round" opacity=".9"/>
+    <path d="M1043 384 v16 M1049 384 v16" stroke="#D4B477" stroke-width="2" stroke-linecap="round" opacity=".9"/>
+    <text class="m lbl" x="64" y="416">START</text>
+    <text class="m lbl" x="1047" y="416" text-anchor="middle">FINISH</text>
+    <path d="M167 398 V434" stroke="#2D3B37" stroke-width="1" stroke-dasharray="2 4" opacity=".85"/>
+    <path d="M388 398 V434" stroke="#2D3B37" stroke-width="1" stroke-dasharray="2 4" opacity=".85"/>
+    <path d="M609 398 V434" stroke="#2D3B37" stroke-width="1" stroke-dasharray="2 4" opacity=".85"/>
+    <path d="M830 398 V434" stroke="#2D3B37" stroke-width="1" stroke-dasharray="2 4" opacity=".85"/>
+    <path d="M1047 398 V434" stroke="#2D3B37" stroke-width="1" stroke-dasharray="2 4" opacity=".85"/>
+    <circle cx="167" cy="392" r="5" fill="#1D2523" stroke="#40534D" stroke-width="1.5"/>
+    <circle cx="388" cy="392" r="5" fill="#1D2523" stroke="#40534D" stroke-width="1.5"/>
+    <circle cx="609" cy="392" r="5" fill="#1D2523" stroke="#40534D" stroke-width="1.5"/>
+    <circle cx="830" cy="392" r="5" fill="#1D2523" stroke="#40534D" stroke-width="1.5"/>
+    <g class="gantry">
+      <rect x="64" y="332" width="100" height="28" rx="6" fill="#222C29" stroke="#2D3B37" stroke-width="1"/>
+      <circle cx="78" cy="346" r="3.4" fill="#33403B"/>
+      <circle class="lamp1" cx="78" cy="346" r="3.4" fill="#D4B477"/>
+      <circle cx="90" cy="346" r="3.4" fill="#33403B"/>
+      <circle class="lamp2" cx="90" cy="346" r="3.4" fill="#D4B477"/>
+      <circle cx="102" cy="346" r="3.4" fill="#33403B"/>
+      <circle class="lamp3" cx="102" cy="346" r="3.4" fill="#D4B477"/>
+      <text class="m cnt rdy" x="134" y="351" text-anchor="middle" fill="#93A099">READY</text>
+      <text class="m cnt n3" x="134" y="351" text-anchor="middle" fill="#D4B477">3</text>
+      <text class="m cnt n2" x="134" y="351" text-anchor="middle" fill="#D4B477">2</text>
+      <text class="m cnt n1" x="134" y="351" text-anchor="middle" fill="#D4B477">1</text>
+      <text class="m cnt ngo" x="134" y="351" text-anchor="middle" fill="#78BBA9">GO</text>
+    </g>
+    <g>
+      <rect x="64" y="434" width="207" height="62" rx="10" fill="url(#cardSurf)" stroke="#2D3B37" stroke-width="1"/>
+      <g class="ico" transform="translate(76 453)"><path d="M12 2.8a6.2 6.2 0 0 0-3.7 11.2c.7.5 1.1 1.3 1.1 2.1v.5h5.2v-.5c0-.8.4-1.6 1.1-2.1A6.2 6.2 0 0 0 12 2.8Z"/><path d="M9.9 19.4h4.2M10.6 21.4h2.8"/></g>
+      <text class="ct" x="106" y="471">Idea &amp; Analysis</text>
+    </g>
+    <g>
+      <rect x="285" y="434" width="207" height="62" rx="10" fill="url(#cardSurf)" stroke="#2D3B37" stroke-width="1"/>
+      <g class="ico" transform="translate(297 453)"><rect x="2.6" y="3.6" width="18.8" height="16.8" rx="2"/><path d="M2.6 9h18.8M9.2 9v11.4M9.2 14.7h12.2"/></g>
+      <text class="ct" x="327" y="471">Architecture Design</text>
+    </g>
+    <g>
+      <rect x="506" y="434" width="207" height="62" rx="10" fill="url(#cardSurf)" stroke="#2D3B37" stroke-width="1"/>
+      <g class="ico" transform="translate(518 453)"><rect x="2.4" y="4.2" width="19.2" height="15.6" rx="2"/><path d="M2.4 8.4h19.2"/><path d="m6.6 12.2 2.8 2.6-2.8 2.6M12.6 17.4h5.2"/></g>
+      <text class="ct" x="548" y="471">Development</text>
+    </g>
+    <g>
+      <rect x="727" y="434" width="207" height="62" rx="10" fill="url(#cardSurf)" stroke="#2D3B37" stroke-width="1"/>
+      <g class="ico" transform="translate(739 453)"><circle cx="12" cy="12" r="8.4"/><path d="m8.2 12.2 2.8 2.8 5-5.6"/></g>
+      <text class="ct" x="769" y="471">Testing &amp; Integration</text>
+    </g>
+    <g>
+      <rect x="958" y="434" width="178" height="62" rx="10" fill="url(#cardSurf)" stroke="#D4B477" stroke-width="1.2" stroke-opacity=".65"/>
+      <g class="ico-c" transform="translate(972 453)"><path d="M5.2 3.2v17.6M5.2 4.4h12.6l-2.4 3.9 2.4 3.9H5.2"/></g>
+      <text class="rs" x="1000" y="471">WORKING PRODUCT</text>
+    </g>
+    <g class="on1">
+      <circle cx="167" cy="392" r="7.4" fill="none" stroke="#D4B477" stroke-width="1.2" opacity=".5"/>
+      <path d="M167 398 V434" stroke="#D4B477" stroke-width="1.2" opacity=".65"/>
+      <circle cx="167" cy="392" r="5" fill="#D4B477" stroke="#E2C994" stroke-width="1.5"/>
+      <rect x="64" y="434" width="207" height="62" rx="10" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.3"/>
+      <rect x="78" y="434" width="179" height="2.4" rx="1.2" fill="#D4B477"/>
+      <g class="ico-c" transform="translate(76 453)"><path d="M12 2.8a6.2 6.2 0 0 0-3.7 11.2c.7.5 1.1 1.3 1.1 2.1v.5h5.2v-.5c0-.8.4-1.6 1.1-2.1A6.2 6.2 0 0 0 12 2.8Z"/><path d="M9.9 19.4h4.2M10.6 21.4h2.8"/></g>
+      <text class="ct-on" x="106" y="471">Idea &amp; Analysis</text>
+    </g>
+    <g class="on2">
+      <circle cx="388" cy="392" r="7.4" fill="none" stroke="#D4B477" stroke-width="1.2" opacity=".5"/>
+      <path d="M388 398 V434" stroke="#D4B477" stroke-width="1.2" opacity=".65"/>
+      <circle cx="388" cy="392" r="5" fill="#D4B477" stroke="#E2C994" stroke-width="1.5"/>
+      <rect x="285" y="434" width="207" height="62" rx="10" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.3"/>
+      <rect x="299" y="434" width="179" height="2.4" rx="1.2" fill="#D4B477"/>
+      <g class="ico-c" transform="translate(297 453)"><rect x="2.6" y="3.6" width="18.8" height="16.8" rx="2"/><path d="M2.6 9h18.8M9.2 9v11.4M9.2 14.7h12.2"/></g>
+      <text class="ct-on" x="327" y="471">Architecture Design</text>
+    </g>
+    <g class="on3">
+      <circle cx="609" cy="392" r="7.4" fill="none" stroke="#D4B477" stroke-width="1.2" opacity=".5"/>
+      <path d="M609 398 V434" stroke="#D4B477" stroke-width="1.2" opacity=".65"/>
+      <circle cx="609" cy="392" r="5" fill="#D4B477" stroke="#E2C994" stroke-width="1.5"/>
+      <rect x="506" y="434" width="207" height="62" rx="10" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.3"/>
+      <rect x="520" y="434" width="179" height="2.4" rx="1.2" fill="#D4B477"/>
+      <g class="ico-c" transform="translate(518 453)"><rect x="2.4" y="4.2" width="19.2" height="15.6" rx="2"/><path d="M2.4 8.4h19.2"/><path d="m6.6 12.2 2.8 2.6-2.8 2.6M12.6 17.4h5.2"/></g>
+      <text class="ct-on" x="548" y="471">Development</text>
+    </g>
+    <g class="on4">
+      <circle cx="830" cy="392" r="7.4" fill="none" stroke="#D4B477" stroke-width="1.2" opacity=".5"/>
+      <path d="M830 398 V434" stroke="#D4B477" stroke-width="1.2" opacity=".65"/>
+      <circle cx="830" cy="392" r="5" fill="#D4B477" stroke="#E2C994" stroke-width="1.5"/>
+      <rect x="727" y="434" width="207" height="62" rx="10" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.3"/>
+      <rect x="741" y="434" width="179" height="2.4" rx="1.2" fill="#D4B477"/>
+      <g class="ico-c" transform="translate(739 453)"><circle cx="12" cy="12" r="8.4"/><path d="m8.2 12.2 2.8 2.8 5-5.6"/></g>
+      <text class="ct-on" x="769" y="471">Testing &amp; Integration</text>
+    </g>
+    <g class="res">
+      <rect x="958" y="434" width="178" height="62" rx="10" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.5"/>
+      <rect x="972" y="434" width="150" height="2.4" rx="1.2" fill="#E2C994"/>
+      <g class="ico-c" transform="translate(972 453)"><path d="M5.2 3.2v17.6M5.2 4.4h12.6l-2.4 3.9 2.4 3.9H5.2"/></g>
+      <text class="rs-on" x="1000" y="471">WORKING PRODUCT</text>
+    </g>
+    <g transform="translate(108 392)"><g class="car"><g transform="scale(1.28)">
+      <ellipse cx="0" cy="1.6" rx="30" ry="3.4" fill="url(#carShadow)"/><path d="M-36 -6.4h-7M-38 -9.6h-5" stroke="#C9AE7B" stroke-width="1.3" stroke-linecap="round" opacity=".3"/><path d="M-28.6 -4.6 L-29 -8 C-28.8 -10.2 -27.4 -11.4 -25 -11.9 L-20.4 -12.6 C-17.6 -15.6 -13.4 -16.9 -8.6 -17 L-0.4 -16.9 C3.4 -16.7 5.8 -15.4 8.2 -12.9 L14.2 -12 C20.6 -11.4 26 -10.2 29.2 -8.6 C30.4 -7.9 30.8 -6.8 30.6 -5.8 L30.2 -4.6 Z" fill="url(#metal)" stroke="#6E5A39" stroke-width="1.4" stroke-linejoin="round"/><path d="M-18.2 -12.9 C-16 -15.2 -12.6 -16 -8.4 -16.1 L-0.6 -16 C2.6 -15.8 4.8 -14.6 7 -12.6 Z" fill="#293733" stroke="#6E5A39" stroke-width="0.9" stroke-linejoin="round" opacity=".97"/><path d="M-5.6 -16v3.4" stroke="#6E5A39" stroke-width="1.3" opacity=".95"/><path d="M7.6 -12.7 10.6 -13.1 10.2 -11.7Z" fill="#293733" opacity=".85"/><path d="M-24 -11.2C-12 -12.2 4 -12 27.6 -9.8" fill="none" stroke="#DFC79A" stroke-width="1.1" opacity=".6"/><path d="M-21 -6.3C-10 -6.7 6 -6.6 24 -6.1" fill="none" stroke="#6E5A39" stroke-width="1" opacity=".5"/><path d="M11.3 -4.6a6.2 6.2 0 0 1 12.4 0M-23.7 -4.6a6.2 6.2 0 0 1 12.4 0" fill="none" stroke="#6E5A39" stroke-width="1.3" opacity=".9"/><path d="M25.4 -9.2 29.6 -8 29.2 -6.7 25 -7.7Z" fill="#F1EEE7" opacity=".95"/><path d="M-28.6 -7.9 -25.2 -8.3 -25 -6.9 -28.4 -6.6Z" fill="#DFC79A" opacity=".8"/><path d="M-7.6 -9.8h3.2" stroke="#6E5A39" stroke-width="1.2" stroke-linecap="round" opacity=".75"/><circle cx="17.5" cy="-5.2" r="5.4" fill="#2C302C" stroke="#2C302C" stroke-width="1.2"/><circle cx="-17.5" cy="-5.2" r="5.4" fill="#2C302C" stroke="#2C302C" stroke-width="1.2"/><circle cx="17.5" cy="-5.2" r="3.4" fill="none" stroke="#DFC79A" stroke-width="1.3"/><circle cx="-17.5" cy="-5.2" r="3.4" fill="none" stroke="#DFC79A" stroke-width="1.3"/>
+    </g></g></g>
+  </g>
+</svg>

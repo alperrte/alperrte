@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 127 46" width="127" height="46" role="img" aria-label="View CV">
+  <title>View CV</title>
+  <defs>
+    <linearGradient id="bsurf" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#222C29"/><stop offset="100%" stop-color="#171D1C"/></linearGradient>
+    <linearGradient id="btop" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#D4B477" stop-opacity="0.55"/><stop offset="100%" stop-color="#D4B477" stop-opacity="0"/></linearGradient>
+  </defs>
+  <style>
+    .banim3{animation:banim3 8s ease-in-out infinite;animation-delay:-3.40s}
+    @keyframes banim3{0%,72%,100%{stroke:#40534D;opacity:.95}12%,22%{stroke:#D4B477;opacity:1}}
+    @media (prefers-reduced-motion: reduce){.banim3{animation:none}}
+  </style>
+  <rect x="1" y="1" width="125" height="44" rx="11" fill="url(#bsurf)" class="banim3" stroke="#40534D" stroke-width="1.2"/>
+  <rect x="12" y="1.6" width="67" height="1.2" fill="url(#btop)"/>
+  <g transform="translate(16 11)">
+    <g fill="none" stroke="#D4B477" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M4.8 2.4h8.5L19.2 8v13.6H4.8z"/>
+      <path d="M13.1 2.6v5.5h5.5"/>
+      <path d="M8.2 12.6h7.6M8.2 16.2h5.6"/>
+    </g>
+  </g>
+  <text x="52" y="28" font-family='"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif' font-size="14" font-weight="600" letter-spacing="0.3" fill="#F1EEE7">View CV</text>
+</svg>
