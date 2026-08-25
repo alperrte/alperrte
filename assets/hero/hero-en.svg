@@ -39,28 +39,28 @@
   <style>
     .f{font-family:"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif}
     .m{font-family:"IBM Plex Mono","Consolas","DejaVu Sans Mono",monospace}
-    .name{font-size:52px;font-weight:700;letter-spacing:2.4px;fill:#F2F3F1}
-    .t1{font-size:20px;font-weight:600;letter-spacing:.4px;fill:#78BBA9}
-    .t2{font-size:16.5px;font-weight:500;letter-spacing:.6px;fill:#D4B477}
-    .body{font-size:17px;font-weight:400;fill:#C4CCC7}
-    .ph{font-size:12px;font-weight:600;letter-spacing:1.9px;fill:#93A099}
-    .bt{font-size:13px;font-weight:600;letter-spacing:.1px;fill:#C4CCC7}
-    .bt-on{font-size:13px;font-weight:600;letter-spacing:.1px;fill:#F1EEE7}
-    .ct{font-size:13px;font-weight:600;letter-spacing:.1px;fill:#C4CCC7}
-    .ct-on{font-size:13px;font-weight:600;letter-spacing:.1px;fill:#F1EEE7}
-    .rs{font-size:12.5px;font-weight:700;letter-spacing:.4px;fill:#D4B477}
-    .rs-on{font-size:12.5px;font-weight:700;letter-spacing:.4px;fill:#F1EEE7}
-    .lbl{font-size:11.5px;font-weight:600;letter-spacing:1.5px;fill:#93A099}
-    .cnt{font-size:12.5px;font-weight:600;letter-spacing:1.4px}
+    .name{font-size:56px;font-weight:700;letter-spacing:2.4px;fill:#F2F3F1}
+    .t1{font-size:23px;font-weight:600;letter-spacing:.4px;fill:#78BBA9}
+    .t2{font-size:19px;font-weight:500;letter-spacing:.6px;fill:#D4B477}
+    .body{font-size:19.5px;font-weight:400;fill:#C4CCC7}
+    .ph{font-size:15px;font-weight:600;letter-spacing:1.9px;fill:#93A099}
+    .bt{font-size:16px;font-weight:600;letter-spacing:.1px;fill:#C4CCC7}
+    .bt-on{font-size:16px;font-weight:600;letter-spacing:.1px;fill:#F1EEE7}
+    .ct{font-size:15px;font-weight:600;letter-spacing:.1px;fill:#C4CCC7}
+    .ct-on{font-size:15px;font-weight:600;letter-spacing:.1px;fill:#F1EEE7}
+    .rs{font-size:13.5px;font-weight:700;letter-spacing:.4px;fill:#D4B477}
+    .rs-on{font-size:13.5px;font-weight:700;letter-spacing:.4px;fill:#F1EEE7}
+    .lbl{font-size:14.5px;font-weight:600;letter-spacing:1.5px;fill:#93A099}
+    .cnt{font-size:15.5px;font-weight:600;letter-spacing:1.4px}
     .ico{fill:none;stroke:#93A099;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
     .ico-t{fill:none;stroke:#78BBA9;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
     .ico-c{fill:none;stroke:#D4B477;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
     .bus{stroke-dasharray:6 9;animation:bus 22s linear infinite}
     @keyframes bus{to{stroke-dashoffset:-180}}
-    @keyframes carRun{0.0%{transform:translateX(0px);opacity:1}19.072%{animation-timing-function:cubic-bezier(.4,0,.3,1);transform:translateX(0px);opacity:1}26.804%{transform:translateX(59px);opacity:1}30.412%{animation-timing-function:cubic-bezier(.4,0,.3,1);transform:translateX(59px);opacity:1}38.144%{transform:translateX(280px);opacity:1}41.753%{animation-timing-function:cubic-bezier(.4,0,.3,1);transform:translateX(280px);opacity:1}49.485%{transform:translateX(501px);opacity:1}53.093%{transform:translateX(501px);opacity:1}60.825%{transform:translateX(722px);opacity:1}64.433%{animation-timing-function:cubic-bezier(.4,0,.3,1);transform:translateX(722px);opacity:1}71.134%{transform:translateX(939px);opacity:1}89.691%{transform:translateX(939px);opacity:1}92.268%{transform:translateX(939px);opacity:0}92.526%{transform:translateX(0px);opacity:0}94.845%{transform:translateX(0px);opacity:1}100.0%{transform:translateX(0px);opacity:1}}
+    @keyframes carRun{0.0%{transform:translateX(0px);opacity:1}19.072%{animation-timing-function:cubic-bezier(.4,0,.3,1);transform:translateX(0px);opacity:1}26.804%{transform:translateX(59px);opacity:1}30.412%{animation-timing-function:cubic-bezier(.4,0,.3,1);transform:translateX(59px);opacity:1}38.144%{transform:translateX(280px);opacity:1}41.753%{animation-timing-function:cubic-bezier(.4,0,.3,1);transform:translateX(280px);opacity:1}49.485%{transform:translateX(501px);opacity:1}53.093%{transform:translateX(501px);opacity:1}60.825%{transform:translateX(722px);opacity:1}64.433%{animation-timing-function:cubic-bezier(.4,0,.3,1);transform:translateX(722px);opacity:1}71.134%{transform:translateX(946px);opacity:1}89.691%{transform:translateX(946px);opacity:1}92.268%{transform:translateX(946px);opacity:0}92.526%{transform:translateX(0px);opacity:0}94.845%{transform:translateX(0px);opacity:1}100.0%{transform:translateX(0px);opacity:1}}
     .car{animation:carRun 19.4s linear infinite}
-    @keyframes runLine{0.0%{stroke-dashoffset:939;opacity:1}19.072%{animation-timing-function:cubic-bezier(.4,0,.3,1);stroke-dashoffset:939;opacity:1}26.804%{stroke-dashoffset:880;opacity:1}30.412%{animation-timing-function:cubic-bezier(.4,0,.3,1);stroke-dashoffset:880;opacity:1}38.144%{stroke-dashoffset:659;opacity:1}41.753%{animation-timing-function:cubic-bezier(.4,0,.3,1);stroke-dashoffset:659;opacity:1}49.485%{stroke-dashoffset:438;opacity:1}53.093%{stroke-dashoffset:438;opacity:1}60.825%{stroke-dashoffset:217;opacity:1}64.433%{animation-timing-function:cubic-bezier(.4,0,.3,1);stroke-dashoffset:217;opacity:1}71.134%{stroke-dashoffset:0;opacity:1}89.691%{stroke-dashoffset:0;opacity:1}92.268%{stroke-dashoffset:0;opacity:0}92.526%{stroke-dashoffset:939;opacity:0}94.845%{stroke-dashoffset:939;opacity:1}100.0%{stroke-dashoffset:939;opacity:1}}
-    .prog{stroke-dasharray:939;stroke-dashoffset:939;animation:runLine 19.4s linear infinite}
+    @keyframes runLine{0.0%{stroke-dashoffset:946;opacity:1}19.072%{animation-timing-function:cubic-bezier(.4,0,.3,1);stroke-dashoffset:946;opacity:1}26.804%{stroke-dashoffset:887;opacity:1}30.412%{animation-timing-function:cubic-bezier(.4,0,.3,1);stroke-dashoffset:887;opacity:1}38.144%{stroke-dashoffset:666;opacity:1}41.753%{animation-timing-function:cubic-bezier(.4,0,.3,1);stroke-dashoffset:666;opacity:1}49.485%{stroke-dashoffset:445;opacity:1}53.093%{stroke-dashoffset:445;opacity:1}60.825%{stroke-dashoffset:224;opacity:1}64.433%{animation-timing-function:cubic-bezier(.4,0,.3,1);stroke-dashoffset:224;opacity:1}71.134%{stroke-dashoffset:0;opacity:1}89.691%{stroke-dashoffset:0;opacity:1}92.268%{stroke-dashoffset:0;opacity:0}92.526%{stroke-dashoffset:946;opacity:0}94.845%{stroke-dashoffset:946;opacity:1}100.0%{stroke-dashoffset:946;opacity:1}}
+    .prog{stroke-dasharray:946;stroke-dashoffset:946;animation:runLine 19.4s linear infinite}
     @keyframes lamp1{0.0%{opacity:0}4.897%{opacity:0}5.412%{opacity:1}14.948%{opacity:1}15.412%{opacity:0}100.0%{opacity:0}}
     .lamp1{opacity:0;animation:lamp1 19.4s linear infinite}
     @keyframes lamp2{0.0%{opacity:0}8.247%{opacity:0}8.763%{opacity:1}14.948%{opacity:1}15.412%{opacity:0}100.0%{opacity:0}}
@@ -114,73 +114,73 @@
     <text class="t2" x="96" y="176">Junior Full-Stack Developer / AI/ML Engineer</text>
     <rect x="96" y="201" width="704" height="1.4" fill="url(#rule)"/>
     <text class="body" x="96" y="234">I develop full-stack products, process automations, microservice architectures,</text>
-    <text class="body" x="96" y="258">and AI-assisted systems.</text>
-    <text class="body" x="96" y="296">I turn ideas into working products across analysis, architecture, development,</text>
-    <text class="body" x="96" y="320">testing, and integration.</text>
+    <text class="body" x="96" y="259">and AI-assisted systems.</text>
+    <text class="body" x="96" y="292">I turn ideas into working products across analysis, architecture, development,</text>
+    <text class="body" x="96" y="317">testing, and integration.</text>
   </g>
   <g class="f">
     <text class="m ph" x="858" y="84">ENGINEERING FOCUS</text>
     <rect x="858" y="90" width="294" height="1" fill="#40534D" opacity=".9"/>
-    <line class="bus" x1="1005" y1="96" x2="1005" y2="318" stroke="#2F806E" stroke-width="1.1" opacity=".55"/>
-    <line class="bus" x1="852" y1="207" x2="1158" y2="207" stroke="#2F806E" stroke-width="1.1" opacity=".55"/>
+    <line class="bus" x1="1005" y1="96" x2="1005" y2="330" stroke="#2F806E" stroke-width="1.1" opacity=".55"/>
+    <line class="bus" x1="852" y1="213" x2="1158" y2="213" stroke="#2F806E" stroke-width="1.1" opacity=".55"/>
     <g>
-      <rect x="858" y="102" width="134" height="92" rx="9" fill="url(#cardSurf)" stroke="#40534D" stroke-width="1.1"/>
+      <rect x="858" y="102" width="134" height="98" rx="9" fill="url(#cardSurf)" stroke="#40534D" stroke-width="1.1"/>
       <g class="ico" transform="translate(873 116)"><path d="M6.4 4.6h12.9a1.9 1.9 0 0 1 1.9 1.9v9.1"/><rect x="2.8" y="7.4" width="15.5" height="12" rx="2"/><path d="M2.8 11.1h15.5"/><path d="M7.6 14.2 5.8 16l1.8 1.8M13.5 14.2 15.3 16l-1.8 1.8"/></g>
-      <text class="bt" x="873" y="165">Full-Stack</text>
-      <text class="bt" x="873" y="182">Products</text>
+      <text class="bt" x="873" y="167">Full-Stack</text>
+      <text class="bt" x="873" y="188">Products</text>
     </g>
     <g>
-      <rect x="1018" y="102" width="134" height="92" rx="9" fill="url(#cardSurf)" stroke="#40534D" stroke-width="1.1"/>
+      <rect x="1018" y="102" width="134" height="98" rx="9" fill="url(#cardSurf)" stroke="#40534D" stroke-width="1.1"/>
       <g class="ico" transform="translate(1033 116)"><rect x="2.6" y="3.4" width="6.6" height="6.6" rx="1.6"/><rect x="2.6" y="14" width="6.6" height="6.6" rx="1.6"/><rect x="14.8" y="8.7" width="6.6" height="6.6" rx="1.6"/><path d="M9.2 6.7h3.2a2 2 0 0 1 2 2v1.6M9.2 17.3h3.2a2 2 0 0 0 2-2v-1.6"/><path d="M12.9 10.4 14.4 12l1.5-1.6"/></g>
-      <text class="bt" x="1033" y="165">Process</text>
-      <text class="bt" x="1033" y="182">Automation</text>
+      <text class="bt" x="1033" y="167">Process</text>
+      <text class="bt" x="1033" y="188">Automation</text>
     </g>
     <g>
-      <rect x="858" y="220" width="134" height="92" rx="9" fill="url(#cardSurf)" stroke="#40534D" stroke-width="1.1"/>
-      <g class="ico" transform="translate(873 234)"><rect x="9.4" y="9.4" width="5.2" height="5.2" rx="1.3"/><rect x="2.4" y="2.4" width="4.8" height="4.8" rx="1.2"/><rect x="16.8" y="2.4" width="4.8" height="4.8" rx="1.2"/><rect x="2.4" y="16.8" width="4.8" height="4.8" rx="1.2"/><rect x="16.8" y="16.8" width="4.8" height="4.8" rx="1.2"/><path d="m7.3 7.3 2.2 2.2M16.7 7.3l-2.2 2.2M7.3 16.7l2.2-2.2M16.7 16.7l-2.2-2.2"/></g>
-      <text class="bt" x="873" y="283">Microservice</text>
-      <text class="bt" x="873" y="300">Architecture</text>
+      <rect x="858" y="226" width="134" height="98" rx="9" fill="url(#cardSurf)" stroke="#40534D" stroke-width="1.1"/>
+      <g class="ico" transform="translate(873 240)"><rect x="9.4" y="9.4" width="5.2" height="5.2" rx="1.3"/><rect x="2.4" y="2.4" width="4.8" height="4.8" rx="1.2"/><rect x="16.8" y="2.4" width="4.8" height="4.8" rx="1.2"/><rect x="2.4" y="16.8" width="4.8" height="4.8" rx="1.2"/><rect x="16.8" y="16.8" width="4.8" height="4.8" rx="1.2"/><path d="m7.3 7.3 2.2 2.2M16.7 7.3l-2.2 2.2M7.3 16.7l2.2-2.2M16.7 16.7l-2.2-2.2"/></g>
+      <text class="bt" x="873" y="291">Microservice</text>
+      <text class="bt" x="873" y="312">Architecture</text>
     </g>
     <g>
-      <rect x="1018" y="220" width="134" height="92" rx="9" fill="url(#cardSurf)" stroke="#40534D" stroke-width="1.1"/>
-      <g class="ico" transform="translate(1033 234)"><rect x="5.4" y="5.4" width="13.2" height="13.2" rx="2.2"/><rect x="9.6" y="9.6" width="4.8" height="4.8" rx="1.1"/><path d="M9.6 5.4V2.7M14.4 5.4V2.7M9.6 21.3v-2.7M14.4 21.3v-2.7M5.4 9.6H2.7M5.4 14.4H2.7M21.3 9.6h-2.7M21.3 14.4h-2.7"/></g>
-      <text class="bt" x="1033" y="283">AI/ML &amp;</text>
-      <text class="bt" x="1033" y="300">Local AI</text>
+      <rect x="1018" y="226" width="134" height="98" rx="9" fill="url(#cardSurf)" stroke="#40534D" stroke-width="1.1"/>
+      <g class="ico" transform="translate(1033 240)"><rect x="5.4" y="5.4" width="13.2" height="13.2" rx="2.2"/><rect x="9.6" y="9.6" width="4.8" height="4.8" rx="1.1"/><path d="M9.6 5.4V2.7M14.4 5.4V2.7M9.6 21.3v-2.7M14.4 21.3v-2.7M5.4 9.6H2.7M5.4 14.4H2.7M21.3 9.6h-2.7M21.3 14.4h-2.7"/></g>
+      <text class="bt" x="1033" y="291">AI/ML &amp;</text>
+      <text class="bt" x="1033" y="312">Local AI</text>
     </g>
-    <rect x="996" y="198" width="17" height="17" rx="3.8" fill="#1D2523" stroke="#4FA78F" stroke-width="1.4" transform="rotate(45 1005 207)"/>
-    <circle cx="1005" cy="207" r="2.4" fill="#D4B477" opacity=".9"/>
+    <rect x="996" y="204" width="17" height="17" rx="3.8" fill="#1D2523" stroke="#4FA78F" stroke-width="1.4" transform="rotate(45 1005 213)"/>
+    <circle cx="1005" cy="213" r="2.4" fill="#D4B477" opacity=".9"/>
     <g class="focus">
-      <rect x="858" y="102" width="134" height="92" rx="9" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.4"/>
+      <rect x="858" y="102" width="134" height="98" rx="9" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.4"/>
       <g class="ico-t" transform="translate(873 116)"><path d="M6.4 4.6h12.9a1.9 1.9 0 0 1 1.9 1.9v9.1"/><rect x="2.8" y="7.4" width="15.5" height="12" rx="2"/><path d="M2.8 11.1h15.5"/><path d="M7.6 14.2 5.8 16l1.8 1.8M13.5 14.2 15.3 16l-1.8 1.8"/></g>
-      <text class="bt-on" x="873" y="165">Full-Stack</text>
-      <text class="bt-on" x="873" y="182">Products</text>
-      <rect x="1018" y="102" width="134" height="92" rx="9" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.4"/>
+      <text class="bt-on" x="873" y="167">Full-Stack</text>
+      <text class="bt-on" x="873" y="188">Products</text>
+      <rect x="1018" y="102" width="134" height="98" rx="9" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.4"/>
       <g class="ico-t" transform="translate(1033 116)"><rect x="2.6" y="3.4" width="6.6" height="6.6" rx="1.6"/><rect x="2.6" y="14" width="6.6" height="6.6" rx="1.6"/><rect x="14.8" y="8.7" width="6.6" height="6.6" rx="1.6"/><path d="M9.2 6.7h3.2a2 2 0 0 1 2 2v1.6M9.2 17.3h3.2a2 2 0 0 0 2-2v-1.6"/><path d="M12.9 10.4 14.4 12l1.5-1.6"/></g>
-      <text class="bt-on" x="1033" y="165">Process</text>
-      <text class="bt-on" x="1033" y="182">Automation</text>
-      <rect x="858" y="220" width="134" height="92" rx="9" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.4"/>
-      <g class="ico-t" transform="translate(873 234)"><rect x="9.4" y="9.4" width="5.2" height="5.2" rx="1.3"/><rect x="2.4" y="2.4" width="4.8" height="4.8" rx="1.2"/><rect x="16.8" y="2.4" width="4.8" height="4.8" rx="1.2"/><rect x="2.4" y="16.8" width="4.8" height="4.8" rx="1.2"/><rect x="16.8" y="16.8" width="4.8" height="4.8" rx="1.2"/><path d="m7.3 7.3 2.2 2.2M16.7 7.3l-2.2 2.2M7.3 16.7l2.2-2.2M16.7 16.7l-2.2-2.2"/></g>
-      <text class="bt-on" x="873" y="283">Microservice</text>
-      <text class="bt-on" x="873" y="300">Architecture</text>
-      <rect x="1018" y="220" width="134" height="92" rx="9" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.4"/>
-      <g class="ico-t" transform="translate(1033 234)"><rect x="5.4" y="5.4" width="13.2" height="13.2" rx="2.2"/><rect x="9.6" y="9.6" width="4.8" height="4.8" rx="1.1"/><path d="M9.6 5.4V2.7M14.4 5.4V2.7M9.6 21.3v-2.7M14.4 21.3v-2.7M5.4 9.6H2.7M5.4 14.4H2.7M21.3 9.6h-2.7M21.3 14.4h-2.7"/></g>
-      <text class="bt-on" x="1033" y="283">AI/ML &amp;</text>
-      <text class="bt-on" x="1033" y="300">Local AI</text>
+      <text class="bt-on" x="1033" y="167">Process</text>
+      <text class="bt-on" x="1033" y="188">Automation</text>
+      <rect x="858" y="226" width="134" height="98" rx="9" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.4"/>
+      <g class="ico-t" transform="translate(873 240)"><rect x="9.4" y="9.4" width="5.2" height="5.2" rx="1.3"/><rect x="2.4" y="2.4" width="4.8" height="4.8" rx="1.2"/><rect x="16.8" y="2.4" width="4.8" height="4.8" rx="1.2"/><rect x="2.4" y="16.8" width="4.8" height="4.8" rx="1.2"/><rect x="16.8" y="16.8" width="4.8" height="4.8" rx="1.2"/><path d="m7.3 7.3 2.2 2.2M16.7 7.3l-2.2 2.2M7.3 16.7l2.2-2.2M16.7 16.7l-2.2-2.2"/></g>
+      <text class="bt-on" x="873" y="291">Microservice</text>
+      <text class="bt-on" x="873" y="312">Architecture</text>
+      <rect x="1018" y="226" width="134" height="98" rx="9" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.4"/>
+      <g class="ico-t" transform="translate(1033 240)"><rect x="5.4" y="5.4" width="13.2" height="13.2" rx="2.2"/><rect x="9.6" y="9.6" width="4.8" height="4.8" rx="1.1"/><path d="M9.6 5.4V2.7M14.4 5.4V2.7M9.6 21.3v-2.7M14.4 21.3v-2.7M5.4 9.6H2.7M5.4 14.4H2.7M21.3 9.6h-2.7M21.3 14.4h-2.7"/></g>
+      <text class="bt-on" x="1033" y="291">AI/ML &amp;</text>
+      <text class="bt-on" x="1033" y="312">Local AI</text>
     </g>
   </g>
   <g class="f">
     <line x1="64" y1="392" x2="1136" y2="392" stroke="#2D3B37" stroke-width="1.4" opacity=".95"/>
-    <line class="prog" x1="108" y1="392" x2="1047" y2="392" stroke="#2F806E" stroke-width="2" stroke-linecap="round" opacity=".95"/>
-    <line class="flow" x1="108" y1="392" x2="1047" y2="392" stroke="#D4B477" stroke-width="2.4" stroke-linecap="round"/>
+    <line class="prog" x1="108" y1="392" x2="1054" y2="392" stroke="#2F806E" stroke-width="2" stroke-linecap="round" opacity=".95"/>
+    <line class="flow" x1="108" y1="392" x2="1054" y2="392" stroke="#D4B477" stroke-width="2.4" stroke-linecap="round"/>
     <path d="M64 384 v16" stroke="#D4B477" stroke-width="2" stroke-linecap="round" opacity=".9"/>
-    <path d="M1043 384 v16 M1049 384 v16" stroke="#D4B477" stroke-width="2" stroke-linecap="round" opacity=".9"/>
+    <path d="M1050 384 v16 M1056 384 v16" stroke="#D4B477" stroke-width="2" stroke-linecap="round" opacity=".9"/>
     <text class="m lbl" x="64" y="416">START</text>
-    <text class="m lbl" x="1047" y="416" text-anchor="middle">FINISH</text>
+    <text class="m lbl" x="1054" y="416" text-anchor="middle">FINISH</text>
     <path d="M167 398 V434" stroke="#2D3B37" stroke-width="1" stroke-dasharray="2 4" opacity=".85"/>
     <path d="M388 398 V434" stroke="#2D3B37" stroke-width="1" stroke-dasharray="2 4" opacity=".85"/>
     <path d="M609 398 V434" stroke="#2D3B37" stroke-width="1" stroke-dasharray="2 4" opacity=".85"/>
     <path d="M830 398 V434" stroke="#2D3B37" stroke-width="1" stroke-dasharray="2 4" opacity=".85"/>
-    <path d="M1047 398 V434" stroke="#2D3B37" stroke-width="1" stroke-dasharray="2 4" opacity=".85"/>
+    <path d="M1054 398 V434" stroke="#2D3B37" stroke-width="1" stroke-dasharray="2 4" opacity=".85"/>
     <circle cx="167" cy="392" r="5" fill="#1D2523" stroke="#40534D" stroke-width="1.5"/>
     <circle cx="388" cy="392" r="5" fill="#1D2523" stroke="#40534D" stroke-width="1.5"/>
     <circle cx="609" cy="392" r="5" fill="#1D2523" stroke="#40534D" stroke-width="1.5"/>
@@ -220,7 +220,7 @@
       <text class="ct" x="769" y="471">Testing &amp; Integration</text>
     </g>
     <g>
-      <rect x="958" y="434" width="178" height="62" rx="10" fill="url(#cardSurf)" stroke="#D4B477" stroke-width="1.2" stroke-opacity=".65"/>
+      <rect x="958" y="434" width="192" height="62" rx="10" fill="url(#cardSurf)" stroke="#D4B477" stroke-width="1.2" stroke-opacity=".65"/>
       <g class="ico-c" transform="translate(972 453)"><path d="M5.2 3.2v17.6M5.2 4.4h12.6l-2.4 3.9 2.4 3.9H5.2"/></g>
       <text class="rs" x="1000" y="471">WORKING PRODUCT</text>
     </g>
@@ -261,8 +261,8 @@
       <text class="ct-on" x="769" y="471">Testing &amp; Integration</text>
     </g>
     <g class="res">
-      <rect x="958" y="434" width="178" height="62" rx="10" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.5"/>
-      <rect x="972" y="434" width="150" height="2.4" rx="1.2" fill="#E2C994"/>
+      <rect x="958" y="434" width="192" height="62" rx="10" fill="url(#cardOn)" stroke="#D4B477" stroke-width="1.5"/>
+      <rect x="972" y="434" width="164" height="2.4" rx="1.2" fill="#E2C994"/>
       <g class="ico-c" transform="translate(972 453)"><path d="M5.2 3.2v17.6M5.2 4.4h12.6l-2.4 3.9 2.4 3.9H5.2"/></g>
       <text class="rs-on" x="1000" y="471">WORKING PRODUCT</text>
     </g>

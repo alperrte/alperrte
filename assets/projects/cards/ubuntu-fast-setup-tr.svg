@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="08. Ubuntu Fast Setup — Ubuntu kurulumundan sonra sürücüleri, geliştirme araçlarını ve masaüstü uygulamalarını otomatik hazırlayan açık kaynak kurulum paketi." preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 224" width="1200" height="224" role="img" aria-label="08. Ubuntu Fast Setup — Ubuntu kurulumundan sonra sürücüleri, geliştirme araçlarını ve masaüstü uygulamalarını otomatik hazırlayan açık kaynak kurulum paketi." preserveAspectRatio="xMidYMid meet">
   <title>08. Ubuntu Fast Setup — Ubuntu kurulumundan sonra sürücüleri, geliştirme araçlarını ve masaüstü uygulamalarını otomatik hazırlayan açık kaynak kurulum paketi.</title>
   <defs>
     <linearGradient id="pcard" x1="0" y1="0" x2="0" y2="1">
@@ -16,16 +16,16 @@
   <style>
     .f{font-family:"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif}
     .m{font-family:"IBM Plex Mono","Consolas","DejaVu Sans Mono",monospace}
-    .num{font-size:12px;font-weight:700;letter-spacing:.5px;fill:#D4B477}
-    .name{font-size:17px;font-weight:700;fill:#F1EEE7}
-    .body{font-size:12.5px;font-weight:400;fill:#C4CCC7}
-    .techlbl{font-size:10.5px;font-weight:600;letter-spacing:.1px;fill:#C4CCC7}
-    .cat{font-size:9.5px;font-weight:700;letter-spacing:.8px;fill:#78BBA9}
-    .maintag{font-size:8.5px;font-weight:700;letter-spacing:.6px;fill:#D4B477}
-    .pill{font-size:11px;font-weight:700;letter-spacing:.4px}
-    .link{font-size:13.5px;font-weight:700;letter-spacing:.1px}
-    .priv{font-size:12px;font-weight:500;fill:#93A099}
-    .sec{font-size:9px;font-weight:700;letter-spacing:.4px;fill:#D4B477}
+    .num{font-size:13.5px;font-weight:700;letter-spacing:.5px;fill:#D4B477}
+    .name{font-size:19px;font-weight:700;fill:#F1EEE7}
+    .body{font-size:14.5px;font-weight:400;fill:#C4CCC7}
+    .techlbl{font-size:12.5px;font-weight:600;letter-spacing:.1px;fill:#C4CCC7}
+    .cat{font-size:11.5px;font-weight:700;letter-spacing:.8px;fill:#78BBA9}
+    .maintag{font-size:10.5px;font-weight:700;letter-spacing:.6px;fill:#D4B477}
+    .pill{font-size:13px;font-weight:700;letter-spacing:.4px}
+    .link{font-size:15.5px;font-weight:700;letter-spacing:.1px}
+    .priv{font-size:14px;font-weight:500;fill:#93A099}
+    .sec{font-size:11px;font-weight:700;letter-spacing:.4px;fill:#D4B477}
     .ico{fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
     .glow{animation:cglow 9s ease-in-out infinite;animation-delay:-13.30s}
     @keyframes cglow{0%,100%{stroke:#40534D;opacity:.9}50%{stroke:#4FA78F;opacity:1}}
@@ -37,19 +37,20 @@
       .glow,.arrow,.lockpulse,.mainglow{animation:none}
     }
   </style>
-  <rect width="1200" height="150" fill="#171D1C"/>
-  <rect width="1200" height="150" fill="url(#pbg)"/>
-  <rect width="1200" height="150" fill="url(#pgrid)" opacity=".4"/>
-  <rect x="1" y="1" width="1198" height="148" rx="16" fill="none" class="glow" stroke="#40534D" stroke-width="1.4"/>
-  <rect x="0" y="18" width="3" height="114" rx="1.5" fill="#4FA78F"/>
+  <rect width="1200" height="224" fill="#171D1C"/>
+  <rect width="1200" height="224" fill="url(#pbg)"/>
+  <rect width="1200" height="224" fill="url(#pgrid)" opacity=".4"/>
+  <rect x="1" y="1" width="1198" height="222" rx="16" fill="none" class="glow" stroke="#40534D" stroke-width="1.4"/>
+  <rect x="0" y="18" width="3" height="188" rx="1.5" fill="#4FA78F"/>
   <g class="f">
     <text class="m num" x="22" y="30">08</text>
-    <rect x="22" y="46" width="76" height="76" rx="14" fill="url(#pcard)" stroke="#40534D" stroke-width="1.3"/><g transform="translate(37.2 61.2) scale(1.9000)" fill="#E95420" stroke="#E95420"><circle cx="12" cy="12" r="9.4"/><circle cx="12" cy="5.6" r="1.9" fill="#111518" stroke="none"/><circle cx="6.6" cy="15.2" r="1.9" fill="#111518" stroke="none"/><circle cx="17.4" cy="15.2" r="1.9" fill="#111518" stroke="none"/><circle cx="12" cy="12" r="3.2" fill="#111518" stroke="none"/></g>
-    <text class="name" x="116" y="58.0">Ubuntu Fast Setup</text>
-    <text class="body" x="116" y="73.0">Ubuntu kurulumundan sonra sürücüleri, geliştirme araçlarını ve masaüstü uygulamalarını otomatik hazırlayan açık kaynak kurulum paketi.</text>
-    <rect x="116" y="85" width="68" height="28" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(124 90) scale(0.7500)" fill="#C4CCC7" stroke="#C4CCC7"><title>Bash</title><rect x="2.6" y="3.4" width="18.8" height="17.2" rx="2.4"/><path d="m6.4 8.6 3.6 3.4-3.6 3.4M11.6 15.4h6" stroke="#111518" stroke-width="1.6" fill="none"/></g><text class="techlbl" x="149" y="103">Bash</text><rect x="192" y="85" width="83" height="28" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(200 90) scale(0.7500)" fill="#E95420" stroke="#E95420"><title>Ubuntu</title><circle cx="12" cy="12" r="9.4"/><circle cx="12" cy="5.6" r="1.9" fill="#111518" stroke="none"/><circle cx="6.6" cy="15.2" r="1.9" fill="#111518" stroke="none"/><circle cx="17.4" cy="15.2" r="1.9" fill="#111518" stroke="none"/><circle cx="12" cy="12" r="3.2" fill="#111518" stroke="none"/></g><text class="techlbl" x="225" y="103">Ubuntu</text><rect x="283" y="85" width="86" height="28" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(291 90) scale(0.7500)" fill="#3C9CD7" stroke="#3C9CD7"><title>VS Code</title><path d="M16.6 2.6 6.6 11.4 3 9.2v5.6l3.6-2.2 10 8.8 4-2V4.6Z"/><path d="M16.6 21.4V2.6l-10 8.8" stroke-width="1.1"/></g><text class="techlbl" x="316" y="103">VS Code</text><rect x="377" y="85" width="80" height="28" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(385 90) scale(0.7500)" fill="#2496ED" stroke="#2496ED"><title>Docker</title><rect x="3" y="11" width="3.2" height="3" /><rect x="6.8" y="11" width="3.2" height="3"/><rect x="10.6" y="11" width="3.2" height="3"/><rect x="6.8" y="7.4" width="3.2" height="3"/><rect x="10.6" y="7.4" width="3.2" height="3"/><path d="M2.4 14c0 3.8 2.6 6 7.4 6 5.4 0 8.6-2.8 9.6-6.6.9.1 2-.1 2.6-.9-.9-.7-2-.6-2.6-.4C18.8 11 18 11 18 11H2.4Z" stroke-width="1.1"/></g><text class="techlbl" x="410" y="103">Docker</text><rect x="465" y="85" width="81" height="28" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(473 90) scale(0.7500)" fill="#76B900" stroke="#76B900"><title>NVIDIA</title><path d="M4 9.4c3.4-1.9 8.4-2.4 12.8.2M4 9.4v5.6c4 1.6 8.8 1.2 12.8-.2M4 9.4l6.4 5.4" stroke-width="1.6" fill="none"/><path d="M20 8.6a7.4 7.4 0 0 1 0 6.8" stroke-width="1.6" fill="none"/></g><text class="techlbl" x="498" y="103">NVIDIA</text>
-    <text class="m cat" x="1178" y="29" text-anchor="end">SİSTEM OTOMASYONU</text><rect x="1055" y="42" width="123" height="26" rx="13" fill="url(#pcard)" stroke="#78BBA9" stroke-width="1.1"/><g class="ico" transform="translate(1064 46) scale(0.66)" color="#78BBA9"><path d="M6 2.8h10.4A1.8 1.8 0 0 1 18.2 4.6v14.8L12 16.6l-6.2 2.8V4.6A1.8 1.8 0 0 1 6 2.8Z"/></g><text class="pill" x="1084" y="59.5" fill="#78BBA9">AÇIK KAYNAK</text>
-    <text class="link m" x="1026" y="131.0" fill="#78BBA9">Repository'yi Gör →</text>
-    <g class="arrow ico" stroke="#78BBA9" transform="translate(1161 115.0) scale(0.78)"><path d="M4 12h14M12 6l6 6-6 6"/></g>
+    <rect x="22" y="83" width="76" height="76" rx="14" fill="url(#pcard)" stroke="#40534D" stroke-width="1.3"/><g transform="translate(37.2 98.2) scale(1.9000)" fill="#E95420" stroke="#E95420"><circle cx="12" cy="12" r="9.4"/><circle cx="12" cy="5.6" r="1.9" fill="#111518" stroke="none"/><circle cx="6.6" cy="15.2" r="1.9" fill="#111518" stroke="none"/><circle cx="17.4" cy="15.2" r="1.9" fill="#111518" stroke="none"/><circle cx="12" cy="12" r="3.2" fill="#111518" stroke="none"/></g>
+    <text class="name" x="116" y="83.5">Ubuntu Fast Setup</text>
+    <text class="body" x="116" y="101.5">Ubuntu kurulumundan sonra sürücüleri, geliştirme araçlarını ve masaüstü uygulamalarını otomatik hazırlayan açık kaynak</text>
+    <text class="body" x="116" y="121.5">kurulum paketi.</text>
+    <rect x="116" y="133.5" width="76" height="32" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(124 138.5) scale(0.9167)" fill="#C4CCC7" stroke="#C4CCC7"><title>Bash</title><rect x="2.6" y="3.4" width="18.8" height="17.2" rx="2.4"/><path d="m6.4 8.6 3.6 3.4-3.6 3.4M11.6 15.4h6" stroke="#111518" stroke-width="1.6" fill="none"/></g><text class="techlbl" x="153" y="153.5">Bash</text><rect x="200" y="133.5" width="93" height="32" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(208 138.5) scale(0.9167)" fill="#E95420" stroke="#E95420"><title>Ubuntu</title><circle cx="12" cy="12" r="9.4"/><circle cx="12" cy="5.6" r="1.9" fill="#111518" stroke="none"/><circle cx="6.6" cy="15.2" r="1.9" fill="#111518" stroke="none"/><circle cx="17.4" cy="15.2" r="1.9" fill="#111518" stroke="none"/><circle cx="12" cy="12" r="3.2" fill="#111518" stroke="none"/></g><text class="techlbl" x="237" y="153.5">Ubuntu</text><rect x="301" y="133.5" width="98" height="32" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(309 138.5) scale(0.9167)" fill="#3C9CD7" stroke="#3C9CD7"><title>VS Code</title><path d="M16.6 2.6 6.6 11.4 3 9.2v5.6l3.6-2.2 10 8.8 4-2V4.6Z"/><path d="M16.6 21.4V2.6l-10 8.8" stroke-width="1.1"/></g><text class="techlbl" x="338" y="153.5">VS Code</text><rect x="407" y="133.5" width="91" height="32" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(415 138.5) scale(0.9167)" fill="#2496ED" stroke="#2496ED"><title>Docker</title><rect x="3" y="11" width="3.2" height="3" /><rect x="6.8" y="11" width="3.2" height="3"/><rect x="10.6" y="11" width="3.2" height="3"/><rect x="6.8" y="7.4" width="3.2" height="3"/><rect x="10.6" y="7.4" width="3.2" height="3"/><path d="M2.4 14c0 3.8 2.6 6 7.4 6 5.4 0 8.6-2.8 9.6-6.6.9.1 2-.1 2.6-.9-.9-.7-2-.6-2.6-.4C18.8 11 18 11 18 11H2.4Z" stroke-width="1.1"/></g><text class="techlbl" x="444" y="153.5">Docker</text><rect x="506" y="133.5" width="94" height="32" rx="9" fill="#28332F" stroke="#40534D" stroke-width="1"/><g transform="translate(514 138.5) scale(0.9167)" fill="#76B900" stroke="#76B900"><title>NVIDIA</title><path d="M4 9.4c3.4-1.9 8.4-2.4 12.8.2M4 9.4v5.6c4 1.6 8.8 1.2 12.8-.2M4 9.4l6.4 5.4" stroke-width="1.6" fill="none"/><path d="M20 8.6a7.4 7.4 0 0 1 0 6.8" stroke-width="1.6" fill="none"/></g><text class="techlbl" x="543" y="153.5">NVIDIA</text>
+    <text class="m cat" x="1178" y="30" text-anchor="end">SİSTEM OTOMASYONU</text><rect x="1042" y="45" width="136" height="29" rx="14.5" fill="url(#pcard)" stroke="#78BBA9" stroke-width="1.1"/><g class="ico" transform="translate(1051 49.5) scale(0.72)" color="#78BBA9"><path d="M6 2.8h10.4A1.8 1.8 0 0 1 18.2 4.6v14.8L12 16.6l-6.2 2.8V4.6A1.8 1.8 0 0 1 6 2.8Z"/></g><text class="pill" x="1073" y="64.5" fill="#78BBA9">AÇIK KAYNAK</text>
+    <text class="link m" x="1008" y="205.0" fill="#78BBA9">Repository'yi Gör →</text>
+    <g class="arrow ico" stroke="#78BBA9" transform="translate(1159 188.0) scale(0.88)"><path d="M4 12h14M12 6l6 6-6 6"/></g>
   </g>
 </svg>

@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="1200" height="80" role="img" aria-label="Alper Temiz">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 88" width="1200" height="88" role="img" aria-label="Alper Temiz">
   <title>Alper Temiz</title>
   <defs><linearGradient id="frule" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#40534D" stop-opacity="0"/><stop offset="50%" stop-color="#4FA78F" stop-opacity="0.7"/><stop offset="100%" stop-color="#40534D" stop-opacity="0"/></linearGradient></defs>
-  <rect width="1200" height="80" fill="#111518"/>
+  <rect width="1200" height="88" fill="#111518"/>
   <g font-family='"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif' text-anchor="middle">
     <rect x="64" y="0" width="1072" height="1.2" fill="url(#frule)"/>
-    <text x="600" y="38" font-size="18" font-weight="700" letter-spacing="1.5px" fill="#F1EEE7">ALPER TEMİZ</text>
-    <text x="600" y="62" font-size="13" fill="#C4CCC7">Software Engineering · Full-Stack Development · AI/ML</text>
+    <text x="600" y="42" font-size="21" font-weight="700" letter-spacing="1.5px" fill="#F1EEE7">ALPER TEMİZ</text>
+    <text x="600" y="69" font-size="15" fill="#C4CCC7">Software Engineering · Full-Stack Development · AI/ML</text>
   </g>
 </svg>

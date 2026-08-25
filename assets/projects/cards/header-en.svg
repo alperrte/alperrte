@@ -11,10 +11,10 @@
   <rect width="1200" height="88" fill="url(#hgrid)" opacity=".35"/>
   <g class="f" font-family="Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, Liberation Sans, sans-serif">
     <rect x="64" y="22" width="4" height="40" rx="2" fill="url(#haccent)"/>
-    <text x="80" y="40" font-size="33" font-weight="700" letter-spacing=".2px" fill="#F1EEE7">Featured Projects</text>
-    <text x="80" y="64" font-size="15.5" fill="#C4CCC7">Selected work across product development, artificial intelligence, automation, and software architecture.</text>
+    <text x="80" y="40" font-size="36" font-weight="700" letter-spacing=".2px" fill="#F1EEE7">Featured Projects</text>
+    <text x="80" y="64" font-size="17px" fill="#C4CCC7">Selected work across product development, artificial intelligence, automation, and software architecture.</text>
     <rect x="64" y="78" width="1072" height="1.2" fill="url(#hrule)"/>
-    <g stroke="#78BBA9" stroke-width="1.4" fill="none" stroke-linejoin="round"><rect x="1047" y="42" width="6.4" height="6.4" rx="1"/><rect x="1056.4" y="42" width="6.4" height="6.4" rx="1"/><rect x="1047" y="51" width="6.4" height="6.4" rx="1"/><rect x="1056.4" y="51" width="6.4" height="6.4" rx="1"/></g>
-    <text x="1067" y="57" font-family="IBM Plex Mono, Consolas, DejaVu Sans Mono, monospace" font-size="11" font-weight="700" letter-spacing="1px" fill="#93A099">08 PROJECTS</text>
+    <g stroke="#78BBA9" stroke-width="1.4" fill="none" stroke-linejoin="round"><rect x="1034" y="42" width="6.4" height="6.4" rx="1"/><rect x="1043.4" y="42" width="6.4" height="6.4" rx="1"/><rect x="1034" y="51" width="6.4" height="6.4" rx="1"/><rect x="1043.4" y="51" width="6.4" height="6.4" rx="1"/></g>
+    <text x="1054" y="57" font-family="IBM Plex Mono, Consolas, DejaVu Sans Mono, monospace" font-size="12.5" font-weight="700" letter-spacing="1px" fill="#93A099">08 PROJECTS</text>
   </g>
 </svg>

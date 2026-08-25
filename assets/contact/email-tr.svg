@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176 46" width="176" height="46" role="img" aria-label="E-posta Gönder">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198 52" width="198" height="52" role="img" aria-label="E-posta Gönder">
   <title>E-posta Gönder</title>
   <defs>
     <linearGradient id="bsurf" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#222C29"/><stop offset="100%" stop-color="#171D1C"/></linearGradient>
@@ -9,13 +9,13 @@
     @keyframes banim2{0%,72%,100%{stroke:#40534D;opacity:.95}12%,22%{stroke:#D4B477;opacity:1}}
     @media (prefers-reduced-motion: reduce){.banim2{animation:none}}
   </style>
-  <rect x="1" y="1" width="174" height="44" rx="11" fill="url(#bsurf)" class="banim2" stroke="#40534D" stroke-width="1.2"/>
-  <rect x="12" y="1.6" width="116" height="1.2" fill="url(#btop)"/>
-  <g transform="translate(16 11)">
+  <rect x="1" y="1" width="196" height="50" rx="11" fill="url(#bsurf)" class="banim2" stroke="#40534D" stroke-width="1.2"/>
+  <rect x="12" y="1.6" width="132" height="1.2" fill="url(#btop)"/>
+  <g transform="translate(18 14)">
     <g fill="none" stroke="#D4B477" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round">
       <rect x="1.2" y="3.6" width="21.6" height="16.4" rx="2.8"/>
       <path d="M2.8 5.9 12 13.2 21.2 5.9"/>
     </g>
   </g>
-  <text x="52" y="28" font-family='"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif' font-size="14" font-weight="600" letter-spacing="0.3" fill="#F1EEE7">E-posta Gönder</text>
+  <text x="58" y="32" font-family='"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif' font-size="16" font-weight="600" letter-spacing="0.3" fill="#F1EEE7">E-posta Gönder</text>
 </svg>

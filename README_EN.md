@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/alpertemizz/"><img src="assets/contact/linkedin.svg" width="128" alt="LinkedIn"></a>&nbsp;<a href="mailto:alpertemiz15@gmail.com"><img src="assets/contact/email-en.svg" width="145" alt="Send Email"></a>&nbsp;<a href="assets/cv/Alper_Temiz_CV_EN.pdf"><img src="assets/contact/cv-en.svg" width="127" alt="View CV"></a>
+<a href="https://www.linkedin.com/in/alpertemizz/"><img src="assets/contact/linkedin.svg" width="146" alt="LinkedIn"></a>&nbsp;<a href="mailto:alpertemiz15@gmail.com"><img src="assets/contact/email-en.svg" width="165" alt="Send Email"></a>&nbsp;<a href="assets/cv/Alper_Temiz_CV_EN.pdf"><img src="assets/contact/cv-en.svg" width="143" alt="View CV"></a>
 
 </div>
 
