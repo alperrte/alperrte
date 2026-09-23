@@ -19,15 +19,17 @@
 
 </div>
 
-<img src="assets/projects/cards/dinleai-en.svg" width="100%" alt="DINLEAI Predict — private / internal project">
-
-<a href="https://ilgeai.com"><img src="assets/projects/cards/ilgeai-website-en.svg" width="100%" alt="ILGEAI Website — live website"></a>
-
-<img src="assets/projects/cards/article-app-en.svg" width="100%" alt="Article App — private project">
+<a href="https://github.com/alperrte/pdf-reme"><img src="assets/projects/cards/pdf-reme-en.svg" width="100%" alt="PDF-REME — GitHub repository"></a>
 
 <a href="https://github.com/alperrte/QResto"><img src="assets/projects/cards/qresto-en.svg" width="100%" alt="QResto — GitHub repository"></a>
 
+<img src="assets/projects/cards/article-app-en.svg" width="100%" alt="Article App — private project">
+
 <a href="https://github.com/alperrte/Staffly"><img src="assets/projects/cards/staffly-en.svg" width="100%" alt="Staffly — GitHub repository"></a>
+
+<img src="assets/projects/cards/dinleai-en.svg" width="100%" alt="DINLEAI Predict — private / internal project">
+
+<a href="https://ilgeai.com"><img src="assets/projects/cards/ilgeai-website-en.svg" width="100%" alt="ILGEAI Website — live website"></a>
 
 <a href="https://github.com/alperrte/Uni2Clup-Project-"><img src="assets/projects/cards/uni2clup-en.svg" width="100%" alt="Uni2Clup — GitHub repository"></a>
 
