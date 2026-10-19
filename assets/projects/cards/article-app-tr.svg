@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 234" width="1200" height="234" role="img" aria-label="03. Article App — Yerel dil modelleriyle akademik metinleri analiz eden, özetleyen ve kontrollü içerik üretimi sağlayan full-stack sistem." preserveAspectRatio="xMidYMid meet">
-  <title>03. Article App — Yerel dil modelleriyle akademik metinleri analiz eden, özetleyen ve kontrollü içerik üretimi sağlayan full-stack sistem.</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 234" width="1200" height="234" role="img" aria-label="04. Article App — Yerel dil modelleriyle akademik metinleri analiz eden, özetleyen ve kontrollü içerik üretimi sağlayan full-stack sistem." preserveAspectRatio="xMidYMid meet">
+  <title>04. Article App — Yerel dil modelleriyle akademik metinleri analiz eden, özetleyen ve kontrollü içerik üretimi sağlayan full-stack sistem.</title>
   <defs>
     <linearGradient id="pcard" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#222C29"/>
@@ -45,7 +45,7 @@
   <rect x="1" y="1" width="1198" height="232" rx="16" fill="none" class="glow" stroke="#40534D" stroke-width="1.4"/>
   <rect x="0" y="18" width="3" height="198" rx="1.5" fill="#4FA78F"/>
   <g class="f">
-    <text class="m num" x="22" y="30">03</text>
+    <text class="m num" x="22" y="30">04</text>
     <rect x="22" y="88" width="76" height="76" rx="14" fill="url(#pcard)" stroke="#4FA78F" stroke-width="1.3"/><g transform="translate(37.2 103.2) scale(1.9000)" fill="#D4B477" stroke="#D4B477"><path d="M4 5.6c2.3-1.1 4.8-1.1 6.8.2v12.6c-2-1.3-4.5-1.3-6.8-.2Z" fill="none"/><path d="M20 5.6c-2.3-1.1-4.8-1.1-6.8.2v12.6c2-1.3 4.5-1.3 6.8-.2Z" fill="none"/><path d="M10.8 5.8v12.6M13.2 5.8v12.6" stroke-width="1.3"/></g>
     <text class="name" x="116" y="98.0">Article App</text>
     <text class="body" x="116" y="118.0">Yerel dil modelleriyle akademik metinleri analiz eden, özetleyen ve kontrollü içerik üretimi sağlayan full-stack sistem.</text>

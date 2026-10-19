@@ -19,6 +19,8 @@
 
 </div>
 
+<a href="https://pd-assistant.com"><img src="assets/projects/cards/pd-assistant-en.svg" width="100%" alt="Project Delivery Assistant — live site (pd-assistant.com)"></a>
+
 <a href="https://github.com/alperrte/pdf-reme"><img src="assets/projects/cards/pdf-reme-en.svg" width="100%" alt="PDF-REME — GitHub repository"></a>
 
 <a href="https://github.com/alperrte/QResto"><img src="assets/projects/cards/qresto-en.svg" width="100%" alt="QResto — GitHub repository"></a>
@@ -38,6 +40,12 @@
 <a href="https://github.com/alperrte/ubuntu-fast-setup"><img src="assets/projects/cards/ubuntu-fast-setup-en.svg" width="100%" alt="Ubuntu Fast Setup — GitHub repository"></a>
 
 <img src="assets/dividers/hero-divider.svg" width="100%" alt="">
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=alperrte&locale=en&background=171D1C&border=40534D&stroke=40534D&ring=4FA78F&fire=D4B477&currStreakNum=F1EEE7&currStreakLabel=4FA78F&sideNums=F1EEE7&sideLabels=C4CCC7&dates=93A099&border_radius=16" width="495" alt="GitHub commit streak">
+
+</div>
 
 <img src="assets/skills/technical-skills-en.svg" width="100%" alt="Alper Temiz technical skills">
 
