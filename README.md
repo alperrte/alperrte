@@ -41,12 +41,6 @@
 
 <img src="assets/dividers/hero-divider.svg" width="100%" alt="">
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=alperrte&locale=tr&background=171D1C&border=40534D&stroke=40534D&ring=4FA78F&fire=D4B477&currStreakNum=F1EEE7&currStreakLabel=4FA78F&sideNums=F1EEE7&sideLabels=C4CCC7&dates=93A099&border_radius=16" width="495" alt="GitHub commit serisi">
-
-</div>
-
 <img src="assets/skills/technical-skills-tr.svg" width="100%" alt="Alper Temiz teknik yetkinlikler">
 
 <img src="assets/dividers/hero-divider.svg" width="100%" alt="">
