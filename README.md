@@ -3,7 +3,7 @@
 <a href="README.md"><img src="assets/language/tr-active.svg" width="132" alt="Türkçe"></a>&nbsp;<a href="README_EN.md"><img src="assets/language/en-passive.svg" width="132" alt="English"></a>
 <img src="assets/hero/hero-tr.svg" width="100%" alt="Alper Temiz — Yazılım Mühendisliği Öğrencisi, Junior Full-Stack Developer / AI/ML Engineer">
 
-<a href="https://www.linkedin.com/in/alpertemizz/"><img src="assets/buttons/linkedin.svg" width="140" alt="LinkedIn"></a>&nbsp;<a href="mailto:alpertemiz15@gmail.com"><img src="assets/buttons/gmail.svg" width="236" alt="alpertemiz15@gmail.com"></a>&nbsp;<a href="assets/cv/Alper_Temiz_CV_TR.pdf"><img src="assets/buttons/cv.svg" width="100" alt="CV"></a>
+<a href="https://www.linkedin.com/in/alpertemizz/"><img src="assets/buttons/linkedin.svg" width="140" alt="LinkedIn"></a>&nbsp;<a href="mailto:alpertemiz15@gmail.com"><img src="assets/buttons/gmail.svg" width="236" alt="alpertemiz15@gmail.com"></a>&nbsp;<a href="assets/cv/Alper_Temiz_CV_EN.pdf"><img src="assets/buttons/cv.svg" width="100" alt="CV"></a>
 
 <img src="assets/dividers/hero-divider.svg" width="100%" alt="">
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/alpertemizz/"><img src="assets/contact/linkedin.svg" width="146" alt="LinkedIn"></a>&nbsp;<a href="mailto:alpertemiz15@gmail.com"><img src="assets/contact/email-tr.svg" width="198" alt="E-posta Gönder"></a>&nbsp;<a href="assets/cv/Alper_Temiz_CV_TR.pdf"><img src="assets/contact/cv-tr.svg" width="152" alt="CV'yi Gör"></a>
+<a href="https://www.linkedin.com/in/alpertemizz/"><img src="assets/contact/linkedin.svg" width="146" alt="LinkedIn"></a>&nbsp;<a href="mailto:alpertemiz15@gmail.com"><img src="assets/contact/email-tr.svg" width="198" alt="E-posta Gönder"></a>&nbsp;<a href="assets/cv/Alper_Temiz_CV_EN.pdf"><img src="assets/contact/cv-tr.svg" width="152" alt="CV'yi Gör"></a>
 
 </div>
 
